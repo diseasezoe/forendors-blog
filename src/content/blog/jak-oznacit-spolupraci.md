@@ -11,7 +11,7 @@ Pokud spolupracujete s nějakou společností, která váš obsah sponzoruje a v
 
 U nás placenou spolupráci označíte tak, že si v nastavení vlastností příspěvku před jeho vložením zaškrtnete příslušné políčko (viz obrázek).
 
-![](https://blog.pickey.cz/wp-content/uploads/2021/10/image_613da6bd1475b4.00952529_d-1024x582.jpg)
+![](/images/articles/wp-202110-image_613da6bd1475b4.00952529_d-1024x582.jpg)
 
 A máte hotovo.
 

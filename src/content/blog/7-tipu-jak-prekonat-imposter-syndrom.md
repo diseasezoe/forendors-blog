@@ -20,7 +20,7 @@ Je velmi tenká hranice mezi zdravou sebereflexí a syndromem podvodníka. Zatí
 - Bojíte se zkoušet nové věci, abyste neselhali – to, že něco nevyjde, neberete jako možnost k růstu, ale jako naprosté selhání a potvrzení vlastní neschopnosti. 
 - Vidíte jen neúspěchy – i když je za vámi dlouhá cesta a můžete se pyšnit všelijakými úspěchy, pro vás to jsou jen drobnosti a nedokážete je náležitě ocenit. Místo toho se „bičujete“ za sebemenší neúspěch.
 - Špatně snášíte zpětnou vazbu – ať už je zpětná vazba konstruktivní nebo ne, pro vás je to vždycky stresující záležitost. Té dobré nevěříte a ta špatná jen potvrzuje to, co si sami myslíte. Nedokážete vyfiltrovat to, co byste si z ní měli opravdu vzít. 
-- Věříte, že nemáte talent nebo nejste dostatečně chytří  – a tahle víra vás brzdí v dalším rozvoji. Máte pocit, že to na vás dřív nebo později každý pozná a odhalí vaši neschopnost.
+- Věříte, že nemáte talent nebo nejste dostatečně chytří – a tahle víra vás brzdí v dalším rozvoji. Máte pocit, že to na vás dřív nebo později každý pozná a odhalí vaši neschopnost.
 - Myslíte si, že všechno musíte zvládnout sami – požádat někoho o pomoc nebo radu je pro vás známka selhání.
 
 Mohli bychom pokračovat dál, ale trpíte-li syndromem podvodníka, už jste se určitě v některém z bodů (a možná ne jen v jednom) našli.
@@ -33,7 +33,7 @@ Mohli bychom pokračovat dál, ale trpíte-li syndromem podvodníka, už jste se
 - Sólista – všechno zvládáte sami, bez cizí pomoci. Nikoho nepotřebujete. Žádost o radu nebo pomoc berete jako vlastní selhání a snažíte se tomu za každou cenu vyhnout.
 - Expert – pro dokončení práce vyžadujete maximum dostupných informací. Může se tak stát, že vám studium daného problému zabere víc času, než samotná realizace a jakákoli změna plánu vás zaskočí natolik, že propadnete úzkostem.
 
-Jak sami vidíte, syndrom podvodníka není žádný příjemný koktejl, který byste si chtěli vypít na party u bazénu. Ale máme i dobrou zprávu – **dá se s ním bojovat**. Připravte se na to, že to nebude lehké a neznamená to, že jakmile ho překonáte, už se u vás jeho příznaky nikdy neprojeví. Důležité ale je, abyste si to uvědomili včas a nenechali se zahnat do kouta.** Možnosti, jak překonat imposter syndrom,* *jsou různé a změna musí přijít hlavně od vás samotných.** Ale nejste v tom sami – pro začátek zkuste některý z následujících tipů, které vám pomůžou tohohle neřáda překonat.
+Jak sami vidíte, syndrom podvodníka není žádný příjemný koktejl, který byste si chtěli vypít na party u bazénu. Ale máme i dobrou zprávu – **dá se s ním bojovat**. Připravte se na to, že to nebude lehké a neznamená to, že jakmile ho překonáte, už se u vás jeho příznaky nikdy neprojeví. Důležité ale je, abyste si to uvědomili včas a nenechali se zahnat do kouta. ** Možnosti, jak překonat imposter syndrom,* *jsou různé a změna musí přijít hlavně od vás samotných.** Ale nejste v tom sami – pro začátek zkuste některý z následujících tipů, které vám pomůžou tohohle neřáda překonat.
 
 1. Argumentujte fakty
 

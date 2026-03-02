@@ -25,7 +25,7 @@ Profil máte a teď, co na něj? V tomhle kroku si dejte čas. Klidně i několi
 
 Utřídit si myšlenky ohledně obsahu a jeho nacenění vám pomůže článek [Jak mohou podcasteři monetizovat a vydělávat tvorbou?](https://ceskepodcasty.cz/blog/jak-mohou-podcasteri-monetizovat-a-vydelavat-tvorbou),  který jsme dali dohromady s Danem Tržilem pro web České podcasty.  A pokud si stále nejste jistí, zda je správné za (váš) kvalitní obsah platit, přečtěte si i náš článek o tzv. [creators economy](https://blog.forendors.cz/od-vseho-neco/co-je-to-creators-economy/).
 
-**Čím se řídit při volbě předplatného:**- Můžete si zvolit 1 až 3 předplatné – levné, střední a nejdražší.  Fanoušci s nejvyšší úrovní předplatného vidí vždy veškerý obsah v úrovních pod nimi. Ti s nejvyšším předplatným tedy vidí vždy vše. Na začátek doporučujeme začít s jedním předplatným, pak postupně přidávat.
+**Čím se řídit při volbě předplatného:**- Můžete si zvolit 1 až 3 předplatné – levné, střední a nejdražší. Fanoušci s nejvyšší úrovní předplatného vidí vždy veškerý obsah v úrovních pod nimi. Ti s nejvyšším předplatným tedy vidí vždy vše. Na začátek doporučujeme začít s jedním předplatným, pak postupně přidávat.
 - Název předplatného může mít max. 30 znaků.
 - Cena předplatného jde nastavit na min. 59 Kč, ale nebojte se říct si o víc! V současné době je průměrná cena na jedno předplatné 120 Kč a to znamená jediné – lidi jsou ochotní si za kvalitní obsah zaplatit. Využijte toho!
 
@@ -33,7 +33,7 @@ Utřídit si myšlenky ohledně obsahu a jeho nacenění vám pomůže článek 
 
 - Skvělá je u Forendors možnost jednorázového příspěvku. Lidé vám můžou zaplatit za jednotlivý text, podcast nebo video, aniž by byli vašimi podporovateli. Možnost jednorázového příspěvku mají všichni naši tvůrci nastavenou automaticky. Takže nikde nemusíte nic štelovat sami. Kde tuhle možnost najdete? Pod ikonkou s dolarem $ pod každým příspěvkem.
 
-![Takhle vypadá možnost jednorázového příspěvku](https://blog.pickey.cz/wp-content/uploads/2022/01/Picture1.png)
+![Takhle vypadá možnost jednorázového příspěvku](/images/articles/wp-202201-Picture1.png)
 
 - Jediné poplatky, které jdou do Forendors kasičky, jsou provize:15 % z každé pravidelné platby a
 
@@ -56,7 +56,7 @@ Utřídit si myšlenky ohledně obsahu a jeho nacenění vám pomůže článek 
 
 - Věříme, že i vy chcete spolu s námi chránit autorská práva svých kolegů. Vydělávat si na tvorbě někoho jiného můžete jen ve [dvou zákonných výjimkách](https://www.forendors.cz/faq/predplatne#dila-jinych-autoru).
 - Získali jste svou tvorbou možnost placené spolupráce? Gratulujeme! Určitě vám v ní nebudeme na Forendors bránit, pokud ji budete [správně označovat](https://www.forendors.cz/p/b61a66bfb622793b322f864b89d1c629).
-- Daně – myslíme na ně! A vy byste měli taky 😉 Jako autoři vytváříte na Forendors autorský obsah, který je nutné ze zákona danit buď reálnými náklady, nebo paušálem 40 %. Pokud máte z daní pořád osypky, najděte si šikovnou účetní.  My bychom to bez ní taky nezvládli 🤭
+- Daně – myslíme na ně! A vy byste měli taky 😉 Jako autoři vytváříte na Forendors autorský obsah, který je nutné ze zákona danit buď reálnými náklady, nebo paušálem 40 %. Pokud máte z daní pořád osypky, najděte si šikovnou účetní. My bychom to bez ní taky nezvládli 🤭
 
 ## Chci účet zrušit
 

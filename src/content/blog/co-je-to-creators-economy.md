@@ -33,12 +33,12 @@ Ačkoli pojem „Creator(s) economy“ vznikl teprve před deseti lety, čísla 
 
 V České republice jsme s rozvojem creator(s) economy trochu pozadu oproti západním zemím, ale už i v našich končinách se tahle myšlenka celkem rychle usadila a začíná se rozrůstat. I to je jeden z důvodů, proč Forendors vzniklo – aby podpořilo české tvůrce v jejich činnosti a usnadnilo jim monetizaci jejich obsahu.
 
-![Světový vývoj creators economy](https://blog.pickey.cz/wp-content/uploads/2021/12/image001-1024x292.jpg)
+![Světový vývoj creators economy](/images/articles/wp-202112-image001-1024x292.jpg)
 
 ## Chcete to zkusit?
 
-Máte co nabídnout a chtěli byste zkusit monetizovat to, co vás baví?  [Zaregistrujte](https://www.forendors.cz/registrace) se na Forendors a buďte mezi průkopníky Creator(s) economy v České republice.
+Máte co nabídnout a chtěli byste zkusit monetizovat to, co vás baví? [Zaregistrujte](https://www.forendors.cz/registrace) se na Forendors a buďte mezi průkopníky Creator(s) economy v České republice.
 
 Máte dotaz, nevíte jak začít, nebo si nejste jisti, jestli je váš obsah vhodný k monetizaci? Napište nám na [ahoj@forendors.cz](mailto:ahoj@forendors.cz) a my to s vámi rádi probereme.
 
-[Tudy se jde zpět na Forendors.](https://pickey.cz/)
+[Tudy se jde zpět na Forendors.](https://forendors.cz/)

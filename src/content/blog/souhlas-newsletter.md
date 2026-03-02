@@ -13,6 +13,6 @@ Rádi s vámi komunikujeme a snažíme se to dělat efektivně. Nemusíte se ted
 
 Internet je plný balastu, naše newslettery jsou jiné. 
 
-![](https://blog.pickey.cz/wp-content/uploads/2023/09/prihlaseni_newsletter-1024x726.png)
+![](/images/articles/wp-202309-prihlaseni_newsletter-1024x726.png)
 
-[Tudy se jde zpět na](https://pickey.cz)[Forendors](https://forendors.cz)[.](https://pickey.cz)
+[Tudy se jde zpět na](https://forendors.cz)[Forendors](https://forendors.cz)[.](https://forendors.cz)

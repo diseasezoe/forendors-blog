@@ -11,7 +11,7 @@ Jste tvůrci, máte vyladěný obsah, ale podporovatelé nerostou? Jedním z dů
 
 ## Pravidelní jako hodinky
 
-Co spojuje nejúspěšnější tvůrce na Forendors? Jejich příspěvky vycházejí pravidelně. Ať už se podíváte na [Kecy & politiku](https://www.forendors.cz/kecyapolitika), [Radio Zeitung](https://www.forendors.cz/radiozeitung) nebo [Příběh, který se opravdu stal](https://www.forendors.cz/pandikralovna), uvidíte, že právě pravidelnost je spojuje. A pokud náhodou nestíhají vydat obsah v den, kdy slíbili, dají to svým fanouškům vědět. **Pravidelnost** ([a hodnotný obsah a skvělá propagace](https://blog.forendors.cz/tipy-triky/tri-klice-k-uspechu/))**rovná se úspěch.**
+Co spojuje nejúspěšnější tvůrce na Forendors? Jejich příspěvky vycházejí pravidelně. Ať už se podíváte na [Kecy & politiku](https://www.forendors.cz/kecyapolitika), [Radio Zeitung](https://www.forendors.cz/radiozeitung) nebo [Příběh, který se opravdu stal](https://www.forendors.cz/pandikralovna), uvidíte, že právě pravidelnost je spojuje. A pokud náhodou nestíhají vydat obsah v den, kdy slíbili, dají to svým fanouškům vědět. **Pravidelnost** ([a hodnotný obsah a skvělá propagace](https://blog.forendors.cz/tipy-triky/tri-klice-k-uspechu/)) **rovná se úspěch.**
 
 ## Jak často je „tak akorát“?
 

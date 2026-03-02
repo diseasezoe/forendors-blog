@@ -58,16 +58,16 @@ Jste spisovatelé, hudebníci, malíři či něco vyrábíte a v předchozích t
 
 Forendors nabízí různé funkce a formáty příspěvků, které můžete k monetizaci snadno využít. Co všechno by se vám mohlo hodit?
 
-- [Přílohy přímo u příspěvků](https://www.pickey.cz/faq/funkce-a-nastaveni#typy-priloh) jsou ideální k nahrávání pracovních listů, šablon nebo studijních materiálů.
-- [Livestream](https://www.pickey.cz/faq/livestream) využijte k online setkání se svými podporovateli.
-- Pomocí [pravidelných newsletterů](https://www.pickey.cz/faq/funkce-a-nastaveni#jak-funguje-obsahovy-newsletter) budujte své publikum i mimo Forendors.
-- [Propojte si profil s Discordem](https://www.pickey.cz/faq/funkce-a-nastaveni#jak-propojit-discord-a-pickey) a komunikujte se svou komunitou a sdílejte si vzájemně tipy a zajímavosti.
+- [Přílohy přímo u příspěvků](https://www.forendors.cz/faq/funkce-a-nastaveni#typy-priloh) jsou ideální k nahrávání pracovních listů, šablon nebo studijních materiálů.
+- [Livestream](https://www.forendors.cz/faq/livestream) využijte k online setkání se svými podporovateli.
+- Pomocí [pravidelných newsletterů](https://www.forendors.cz/faq/funkce-a-nastaveni#jak-funguje-obsahovy-newsletter) budujte své publikum i mimo Forendors.
+- [Propojte si profil s Discordem](https://www.forendors.cz/faq/funkce-a-nastaveni#jak-propojit-discord-a-forendors) a komunikujte se svou komunitou a sdílejte si vzájemně tipy a zajímavosti.
 - Vytvořte anketu a zeptejte se na názor svých fanoušků.
-- [Soukromé zprávy](https://www.pickey.cz/faq/funkce-a-nastaveni#soukrome-zpravy) můžete využít mnoha způsoby (třeba k individuálním konzultacím, zpětné vazbě atd.)
-- [Neomezený upload audia i videa](https://www.pickey.cz/faq/funkce-a-nastaveni#nahravani-videa) vám poskytne dostatečný prostor pro realizaci bonusových epizod nebo prodloužených dílů.
-- Využijte [odemčení příspěvku jednorázovou platbou](https://www.pickey.cz/faq/predplatne-tvurce#odemceni-prispevku) jako marketingový nástroj pro budování publika.
-- [Předplatným na delší dobu](https://www.pickey.cz/faq/predplatne-tvurce#tvurce-predplatne-na-delsi-dobu) (pro tvůrce s 20+ přispěvateli) odbouráte svým podporovatelům starosti, zda platba každý měsíc proběhne.
-- Zapněte si možnost [Darovat předplatné](https://www.pickey.cz/faq/predplatne-tvurce#darovani-predplatneho) a staňte se pro někoho dárkem.
+- [Soukromé zprávy](https://www.forendors.cz/faq/funkce-a-nastaveni#soukrome-zpravy) můžete využít mnoha způsoby (třeba k individuálním konzultacím, zpětné vazbě atd.)
+- [Neomezený upload audia i videa](https://www.forendors.cz/faq/funkce-a-nastaveni#nahravani-videa) vám poskytne dostatečný prostor pro realizaci bonusových epizod nebo prodloužených dílů.
+- Využijte [odemčení příspěvku jednorázovou platbou](https://www.forendors.cz/faq/predplatne-tvurce#odemceni-prispevku) jako marketingový nástroj pro budování publika.
+- [Předplatným na delší dobu](https://www.forendors.cz/faq/predplatne-tvurce#tvurce-predplatne-na-delsi-dobu) (pro tvůrce s 20+ přispěvateli) odbouráte svým podporovatelům starosti, zda platba každý měsíc proběhne.
+- Zapněte si možnost [Darovat předplatné](https://www.forendors.cz/faq/predplatne-tvurce#darovani-predplatneho) a staňte se pro někoho dárkem.
 
 ## Zeptejte se fanoušků
 
