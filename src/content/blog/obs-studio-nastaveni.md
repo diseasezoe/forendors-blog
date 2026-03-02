@@ -36,9 +36,7 @@ Pokud budete sdílet pouze audio, tuhle část můžete přeskočit.
 
 Pro video stream je důležité nastavit dva hlavní parametry – *Základní rozlišení *a *Výstupní rozlišení*. Oboje najdete v *Nastavení - Obraz*.
 
-**Základní rozlišení **= velikost canvasu, neboli plochy, kde se budou zobrazovat jednotlivé zdroje (displej, video atd.). Tohle rozlišení byste si měli nastavit ve stejné velikosti, jako okno, které budete sdílet – např. pokud budete sdílet monitor 2560 x 1440, základní rozlišení v OBS by mělo být nastavené na stejnou velikost. Základní rozlišení by nemělo být menší než výstupní rozlišení, jinak se může stát, že bude obraz rozmazaný.
-
-**Výstupní rozlišení**= rozlišení streamu, jak se bude přehrávat na webu. Forendors podporuje maximálně 1920 x 1080 (není tedy nutné nastavovat větší rozlišení) a ideální poměr stran je 16 : 9.
+**Základní rozlišení** = velikost canvasu, neboli plochy, kde se budou zobrazovat jednotlivé zdroje (displej, video atd.). Tohle rozlišení byste si měli nastavit ve stejné velikosti, jako okno, které budete sdílet – např. pokud budete sdílet monitor 2560 x 1440, základní rozlišení v OBS by mělo být nastavené na stejnou velikost. Základní rozlišení by nemělo být menší než výstupní rozlišení, jinak se může stát, že bude obraz rozmazaný.**Výstupní rozlišení**= rozlišení streamu, jak se bude přehrávat na webu. Forendors podporuje maximálně 1920 x 1080 (není tedy nutné nastavovat větší rozlišení) a ideální poměr stran je 16 : 9.
 
 ![Pro video stream si nastavte základní a výstupní rozlišení](https://blog.pickey.cz/wp-content/uploads/2022/01/Screenshot-2022-01-23-at-08.30.33.png)
 
@@ -48,25 +46,25 @@ Nejprve se pojďme podívat, jak OBS Studio po spuštění vypadá a co v jaké 
 
 ![Rozvržení OBS - kde co ovládáte](/images/articles/4-1024x726.png)
 
-**Sdílení audia **- v levém dolním rohu v okně *Zdroje (Sources)* klikněte na znaménko plus a vyberte z možností *Záznam zvukového vstupu (Audio Input Capture)*, nastavíte si parametry, které pro livestream chcete používat (nebo necháte předvyplněné nastavení) a potvrdíte.
+**Sdílení audia** - v levém dolním rohu v okně *Zdroje (Sources)* klikněte na znaménko plus a vyberte z možností *Záznam zvukového vstupu (Audio Input Capture)*, nastavíte si parametry, které pro livestream chcete používat (nebo necháte předvyplněné nastavení) a potvrdíte.
 
 ![Přidání audio zdroje pro sdílení audia](https://blog.pickey.cz/wp-content/uploads/2022/01/DF82C154-5DBB-42DC-A260-CCCDB985BCF4-237x300.jpg)
 
-**Sdílení kamery **(pokud jste při vytváření příspěvku zvolili tuhle možnost) – postupujete stejně jako u audia, jen vyberete ze seznamu *Zařízení pro záznam obrazu (Video Capture Device).*
+**Sdílení kamery** (pokud jste při vytváření příspěvku zvolili tuhle možnost) – postupujete stejně jako u audia, jen vyberete ze seznamu *Zařízení pro záznam obrazu (Video Capture Device).*
 
 ![Nastavte si kameru, kterou chcete při livestreamu používat](https://blog.pickey.cz/wp-content/uploads/2022/01/Screenshot-2022-01-21-at-17.54.56-1024x304.png)
 
-**Sdílení obsahu **– jestli chcete během livestreamu sdílet například nějakou prezentaci nebo webovou stránku, zvolte možnost *Záznam okna (Window Capture)* nebo – pokud máte více monitorů – *Záznam obrazovky (Display Capture)*. Potvrďte a jako další krok vyberte okno nebo monitor, které chcete sdílet.
+**Sdílení obsahu** – jestli chcete během livestreamu sdílet například nějakou prezentaci nebo webovou stránku, zvolte možnost *Záznam okna (Window Capture)* nebo – pokud máte více monitorů – *Záznam obrazovky (Display Capture)*. Potvrďte a jako další krok vyberte okno nebo monitor, které chcete sdílet.
 
-**Tip Forendors: **Pokud potřebujete sdílet víc dokumentů naráz (například ukázat rozdíl mezi dvěma webovými stránkami), jednoduše přidáte další Záznam okna (Window Capture), zvolíte další okno a v livestreamu se zobrazí obě současně, nebo obě okna umístíte na sdílený monitor.*
+**Tip Forendors:** Pokud potřebujete sdílet víc dokumentů naráz (například ukázat rozdíl mezi dvěma webovými stránkami), jednoduše přidáte další Záznam okna (Window Capture), zvolíte další okno a v livestreamu se zobrazí obě současně, nebo obě okna umístíte na sdílený monitor.*
 
 ![Pod Zdroji si můžete nastavit sdílení i více oken/obrazovek současně](/images/articles/2-1024x726.png)
 
-**Skrýt zdroje **– pokud chcete dočasně zneaktivnit/skrýt některý z obsahu, který vysíláte, jednoduše klikněte na ikonku oka. Jakmile se místo ní zobrazí ikonka přeškrtnutého oka, obsah přestane být pro sledující viditelný. Tímto způsobem můžete dočasně vypnout i kameru (například během pauzy) a naopak sdílet obrazovku s časovým odpočtem či videem pro vyplnění pauzy.
+**Skrýt zdroje** – pokud chcete dočasně zneaktivnit/skrýt některý z obsahu, který vysíláte, jednoduše klikněte na ikonku oka. Jakmile se místo ní zobrazí ikonka přeškrtnutého oka, obsah přestane být pro sledující viditelný. Tímto způsobem můžete dočasně vypnout i kameru (například během pauzy) a naopak sdílet obrazovku s časovým odpočtem či videem pro vyplnění pauzy.
 
 ![Zdroje můžete dočasně skrýt kliknutím na ikonku oka](https://blog.pickey.cz/wp-content/uploads/2022/01/Screenshot-2022-01-23-at-09.27.51-300x295.png)
 
-**Překrývání a velikost oken **– pokud sdílíte víc zdroju současně (např. video a prezentaci), můžete si sami nastavit poměr okna tak, jak chcete, aby se sledujícím zobrazovalo. Stačí jen kliknout na některé ze sdílených oken - zobrazí se červený rámeček, který v rohu chytíte myší a posunem zvětšíte/zmenšíte jeho velikost. Pokud se vám okna překrývají a chcete, aby se zadní okno zobrazovalo v popředí, stačí jen posunout požadovaný zdroj v okně *Zdroje *na horní pozici.
+**Překrývání a velikost oken** – pokud sdílíte víc zdroju současně (např. video a prezentaci), můžete si sami nastavit poměr okna tak, jak chcete, aby se sledujícím zobrazovalo. Stačí jen kliknout na některé ze sdílených oken - zobrazí se červený rámeček, který v rohu chytíte myší a posunem zvětšíte/zmenšíte jeho velikost. Pokud se vám okna překrývají a chcete, aby se zadní okno zobrazovalo v popředí, stačí jen posunout požadovaný zdroj v okně *Zdroje *na horní pozici.
 
 ![Okno označené červeným rámečkem můžete tahem zvětšit/zmenšit](/images/articles/OBS_screen-1024x726.png)
 

@@ -9,7 +9,7 @@ draft: false
 
 Stává se vám, že o sobě často pochybujete? Máte pocit, že žádná vaše chyba se nepromíjí? Jste přesvědčení, že všechno zvládnete úplně sami a nikoho k sobě nepotřebujete? Pak se u vás možná projevuje imposter syndrom, neboli syndrom podvodníka.
 
-**Imposter syndrom je stav, kdy přisuzujete své dosavadní úspěchy náhodě, omylu nebo štěstí a odmítáte připustit vlastní kvality.**Často je tento psychologický stav doprovázený úzkostmi a strachem z toho, že vás okolí nakonec prokoukne. Paradoxně jím trpí nejvíc lidé, kteří jsou inteligentní a velice schopní. 
+**Imposter syndrom je stav, kdy přisuzujete své dosavadní úspěchy náhodě, omylu nebo štěstí a odmítáte připustit vlastní kvality.** Často je tento psychologický stav doprovázený úzkostmi a strachem z toho, že vás okolí nakonec prokoukne. Paradoxně jím trpí nejvíc lidé, kteří jsou inteligentní a velice schopní. 
 
 ## Zdravá sebereflexe nebo syndrom podvodníka?
 
@@ -33,9 +33,7 @@ Mohli bychom pokračovat dál, ale trpíte-li syndromem podvodníka, už jste se
 - Sólista – všechno zvládáte sami, bez cizí pomoci. Nikoho nepotřebujete. Žádost o radu nebo pomoc berete jako vlastní selhání a snažíte se tomu za každou cenu vyhnout.
 - Expert – pro dokončení práce vyžadujete maximum dostupných informací. Může se tak stát, že vám studium daného problému zabere víc času, než samotná realizace a jakákoli změna plánu vás zaskočí natolik, že propadnete úzkostem.
 
-Jak sami vidíte, syndrom podvodníka není žádný příjemný koktejl, který byste si chtěli vypít na party u bazénu. Ale máme i dobrou zprávu – **dá se s ním bojovat**. Připravte se na to, že to nebude lehké a neznamená to, že jakmile ho překonáte, už se u vás jeho příznaky nikdy neprojeví. Důležité ale je, abyste si to uvědomili včas a nenechali se zahnat do kouta. 
-
-**Možnosti, jak překonat imposter syndrom,* *jsou různé a změna musí přijít hlavně od vás samotných.** Ale nejste v tom sami – pro začátek zkuste některý z následujících tipů, které vám pomůžou tohohle neřáda překonat.
+Jak sami vidíte, syndrom podvodníka není žádný příjemný koktejl, který byste si chtěli vypít na party u bazénu. Ale máme i dobrou zprávu – **dá se s ním bojovat**. Připravte se na to, že to nebude lehké a neznamená to, že jakmile ho překonáte, už se u vás jeho příznaky nikdy neprojeví. Důležité ale je, abyste si to uvědomili včas a nenechali se zahnat do kouta.** Možnosti, jak překonat imposter syndrom,* *jsou různé a změna musí přijít hlavně od vás samotných.** Ale nejste v tom sami – pro začátek zkuste některý z následujících tipů, které vám pomůžou tohohle neřáda překonat.
 
 1. Argumentujte fakty
 

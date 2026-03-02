@@ -13,7 +13,7 @@ Tvůrci si mohou díky této funkci zapnout synchronizaci se Spotify a automatic
 
 ## Jaké výhody uživatelům přináší synchronizace audio obsahu se Spotify?
 
-**Tvůrcům**tahle funkce přináší **další způsob distribuce**placeného obsahu – navíc přes velmi oblíbený kanál. Audio obsah z Forendors je **na Spotify**pro všechny **dohledatelný**, což přináší další možnost propagace. **Synchronizace**navíc funguje **automaticky**, a tak tvůrce nemusí publikováním obsahu na Spotify trávit žádný čas navíc.
+**Tvůrcům** tahle funkce přináší**další způsob distribuce** placeného obsahu – navíc přes velmi oblíbený kanál. Audio obsah z Forendors je**na Spotify** pro všechny**dohledatelný**, což přináší další možnost propagace.**Synchronizace** navíc funguje**automaticky**, a tak tvůrce nemusí publikováním obsahu na Spotify trávit žádný čas navíc.
 
 Pokud tvůrci využívají účet [Spotify for Podcasters](https://podcasters.spotify.com/) a synchronizovaný obsah z Forendors si s ním spárují, získají navíc **přístup ke statistikám přehrávání**, možnost přidávat k podcastu Spotify kategorie nebo nahrávat video obsah. Služba ale funguje i bez nutnosti účtu Spotify for Podcasters.
 
@@ -23,7 +23,7 @@ Pro **podporovatele**, kteří používají Spotify jako primární platformu pr
 
 Nové funkce se všem novým uživatelům snažíme přinášet tak, aby s jejich nastavením měli co nejméně starostí. To platí i v tomhle případě.
 
-**Pro podporovatele **je zapnutí přístupu k placenému obsahu na Spotify takřka na pár kliknutí (viz grafický návod níže). V [osobním nastavení](https://www.forendors.cz/osobni/profil/editace#spotify) na Forendors si jedním kliknutím povolíte propojení se Spotify. Budete přesměrovaní na přihlašovací stránku Spotify. Přihlásíte se pod účtem, který chcete připojit, a je to. Na Spotify si vyhledáte obsah od svého oblíbeného tvůrce a po přihlášení budete mít placený obsah v rámci svého předplatného k dispozici. Nezapomeňte si svůj oblíbený podcast **přidat do sledování**, abyste k němu měli pohodlný přístup a nemuseli ho pokaždé znovu vyhledávat.
+**Pro podporovatele** je zapnutí přístupu k placenému obsahu na Spotify takřka na pár kliknutí (viz grafický návod níže). V [osobním nastavení](https://www.forendors.cz/osobni/profil/editace#spotify) na Forendors si jedním kliknutím povolíte propojení se Spotify. Budete přesměrovaní na přihlašovací stránku Spotify. Přihlásíte se pod účtem, který chcete připojit, a je to. Na Spotify si vyhledáte obsah od svého oblíbeného tvůrce a po přihlášení budete mít placený obsah v rámci svého předplatného k dispozici. Nezapomeňte si svůj oblíbený podcast**přidat do sledování**, abyste k němu měli pohodlný přístup a nemuseli ho pokaždé znovu vyhledávat.
 
 ![Postup se může mírně lišit v závislosti na tom, zda se podporovatel přihlašuje přes Google účet, Facebook nebo e-mail. Všechny cesty vás ale dovedou na úspěšné propojení se Spotify (krok 4).](/images/articles/NAVOD-PRO-UZIVATELE-_final-1-1024x523.png)
 
@@ -41,7 +41,7 @@ Synchronizace se Spotify je funkce, kterou může využít v podstatě jakýkoli
 
 Synchronizaci se Spotify můžou využít i tvůrci, kteří sice netvoří klasické podcasty, ale součástí jejich obsahu jsou i **audio příspěvky**. Někteří je publikují pouze na Forendors a zapnutím této funkce se jim otevírají dveře k širšímu publiku a většímu dosahu.
 
-Funkci můžou využít i**tvůrci, kteří tvoří pouze video**. Tam už ale bude potřeba pár kroků navíc. Spotify totiž neumožňuje automatickou synchronizaci videa. Video se ale dá nahrát dodatečně přes účet [Spotify for Podcasters](https://support.spotify.com/us/podcasters/article/video-episodes-for-podcasts-not-hosted-with-spotify/). Pokud někdo tvoří video příspěvky, může na Forendors vytvořit také doprovodnou audio verzi. Po zapnutí synchronizace se do Spotify nahraje audio obsah a tvůrce k němu potom může přidat video.
+Funkci můžou využít i **tvůrci, kteří tvoří pouze video**. Tam už ale bude potřeba pár kroků navíc. Spotify totiž neumožňuje automatickou synchronizaci videa. Video se ale dá nahrát dodatečně přes účet [Spotify for Podcasters](https://support.spotify.com/us/podcasters/article/video-episodes-for-podcasts-not-hosted-with-spotify/). Pokud někdo tvoří video příspěvky, může na Forendors vytvořit také doprovodnou audio verzi. Po zapnutí synchronizace se do Spotify nahraje audio obsah a tvůrce k němu potom může přidat video.
 
 Ani **autoři článků** nezůstávají pozadu. Pokud někdy uvažovali o audio verzi svých textů, ale odradilo je množství času, které by strávili publikováním na různých kanálech, teď tahle starost odpadá. Investují pouze čas potřebný k natočení a publikování na Forendors. O zbytek se postará automatická synchronizace.
 

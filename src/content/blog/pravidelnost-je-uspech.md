@@ -11,13 +11,13 @@ Jste tvůrci, máte vyladěný obsah, ale podporovatelé nerostou? Jedním z dů
 
 ## Pravidelní jako hodinky
 
-Co spojuje nejúspěšnější tvůrce na Forendors? Jejich příspěvky vycházejí pravidelně. Ať už se podíváte na [Kecy & politiku](https://www.forendors.cz/kecyapolitika), [Radio Zeitung](https://www.forendors.cz/radiozeitung) nebo [Příběh, který se opravdu stal](https://www.forendors.cz/pandikralovna), uvidíte, že právě pravidelnost je spojuje. A pokud náhodou nestíhají vydat obsah v den, kdy slíbili, dají to svým fanouškům vědět. **Pravidelnost **([a hodnotný obsah a skvělá propagace](https://blog.forendors.cz/tipy-triky/tri-klice-k-uspechu/))**rovná se úspěch.**
+Co spojuje nejúspěšnější tvůrce na Forendors? Jejich příspěvky vycházejí pravidelně. Ať už se podíváte na [Kecy & politiku](https://www.forendors.cz/kecyapolitika), [Radio Zeitung](https://www.forendors.cz/radiozeitung) nebo [Příběh, který se opravdu stal](https://www.forendors.cz/pandikralovna), uvidíte, že právě pravidelnost je spojuje. A pokud náhodou nestíhají vydat obsah v den, kdy slíbili, dají to svým fanouškům vědět. **Pravidelnost** ([a hodnotný obsah a skvělá propagace](https://blog.forendors.cz/tipy-triky/tri-klice-k-uspechu/))**rovná se úspěch.**
 
 ## Jak často je „tak akorát“?
 
 Za odpověď na tuhle otázku by někteří platili zlatem. Pravdou je, že na ni není univerzální odpověď – každému typu obsahu svědčí něco jiného. Je taky potřeba zvážit, kolik času vám zabere příprava jednoho příspěvku, aby neutrpěla jeho kvalita. Internet je plný balastu, takže určitě nechcete sekat příspěvky jako Baťa cvičky, pokud bude jejich přínos mizivý.
 
-Z našich zkušeností vyplývá, že největší úspěch mají tvůrci, kteří publikují **alespoň jednou týdně a to v jeden konkrétní den, **který si předem určili. Čím to je? 
+Z našich zkušeností vyplývá, že největší úspěch mají tvůrci, kteří publikují **alespoň jednou týdně a to v jeden konkrétní den,** který si předem určili. Čím to je? 
 
 - Týden je relativně dostatečně dlouhá doba na přípravu obsahu pro váš příspěvek.
 - Konkrétním dnem dáte fanouškům vědět, kdy mají nový příspěvek očekávat a můžou se na ten den těšit.
