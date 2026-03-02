@@ -1,0 +1,42 @@
+---
+import Base from '../layouts/Base.astro';
+import Hero from '../components/Hero.astro';
+import CategoryPills from '../components/CategoryPills.astro';
+import FeaturedCard from '../components/FeaturedCard.astro';
+import ArticleGrid from '../components/ArticleGrid.astro';
+import InterviewList from '../components/InterviewList.astro';
+import Pagination from '../components/Pagination.astro';
+import NewsletterCTA from '../components/NewsletterCTA.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = (await getCollection('blog', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const featured = allPosts.find(p => p.data.featured);
+const interviews = allPosts.filter(p => p.data.category === 'rozhovor');
+const regularPosts = allPosts.filter(p => !p.data.featured && p.data.category !== 'rozhovor');
+---
+<Base title="Tipy pro tvůrce">
+  <Hero />
+
+  <div class="content">
+    <CategoryPills active="all" />
+
+    {featured && (
+      <FeaturedCard
+        slug={featured.id}
+        title={featured.data.title}
+        excerpt={featured.data.excerpt}
+        date={featured.data.date}
+        category={featured.data.category}
+        image={featured.data.image}
+      />
+    )}
+
+    <ArticleGrid posts={regularPosts} />
+
+    <InterviewList interviews={interviews} />
+
+    <NewsletterCTA />
+  </div>
+</Base>

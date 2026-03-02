@@ -1,0 +1,40 @@
+---
+import Base from '../../layouts/Base.astro';
+import Hero from '../../components/Hero.astro';
+import CategoryPills from '../../components/CategoryPills.astro';
+import ArticleGrid from '../../components/ArticleGrid.astro';
+import InterviewList from '../../components/InterviewList.astro';
+import NewsletterCTA from '../../components/NewsletterCTA.astro';
+import { getCollection } from 'astro:content';
+import { categories, getCategoryInfo } from '../../lib/categories';
+
+export function getStaticPaths() {
+  return Object.keys(categories).map(slug => ({
+    params: { category: slug },
+  }));
+}
+
+const { category } = Astro.params;
+const cat = getCategoryInfo(category);
+
+const allPosts = (await getCollection('blog', ({ data }) => !data.draft && data.category === category))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const interviews = allPosts.filter(p => p.data.category === 'rozhovor');
+const regularPosts = allPosts.filter(p => p.data.category !== 'rozhovor');
+---
+<Base title={cat.label} description={`Články v kategorii ${cat.label} na Forendors blogu.`}>
+  <Hero title={cat.label} subtitle={`Články v kategorii ${cat.label}`} showSearch={false} />
+
+  <div class="content">
+    <CategoryPills active={category} />
+
+    <ArticleGrid posts={regularPosts} />
+
+    {category === 'rozhovor' && (
+      <InterviewList interviews={interviews} />
+    )}
+
+    <NewsletterCTA />
+  </div>
+</Base>

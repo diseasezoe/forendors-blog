@@ -1,0 +1,15 @@
+---
+import { allCategories } from '../lib/categories';
+
+interface Props {
+  active?: string;
+}
+
+const { active = 'all' } = Astro.props;
+---
+<div class="cat-pills" id="catPills">
+  <a class={`cat-pill ${active === 'all' ? 'active' : ''}`} href="/">Vše</a>
+  {allCategories.map(cat => (
+    <a class={`cat-pill ${active === cat.slug ? 'active' : ''}`} href={`/kategorie/${cat.slug}`}>{cat.label}</a>
+  ))}
+</div>

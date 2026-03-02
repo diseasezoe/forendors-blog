@@ -1,0 +1,45 @@
+---
+import { getCategoryInfo } from '../lib/categories';
+import { formatDate } from '../lib/dates';
+
+interface Props {
+  slug: string;
+  title: string;
+  excerpt: string;
+  date: Date;
+  category: string;
+  image?: string;
+  tags?: string[];
+}
+
+const { slug, title, excerpt, date, category, image, tags = [] } = Astro.props;
+const cat = getCategoryInfo(category);
+
+const gradients: Record<string, string> = {
+  tipy: 'linear-gradient(135deg, var(--accent-light), var(--orange-light))',
+  finance: 'linear-gradient(135deg, var(--green-light), var(--blue-light))',
+  novinky: 'linear-gradient(135deg, var(--blue-light), var(--purple-light))',
+  propagace: 'linear-gradient(135deg, var(--purple-light), var(--accent-light))',
+  nastaveni: 'linear-gradient(135deg, var(--blue-light), var(--green-light))',
+  rozhovor: 'linear-gradient(135deg, var(--purple-light), var(--accent-light))',
+  ostatni: 'linear-gradient(135deg, var(--accent-light), var(--orange-light))',
+};
+const bg = gradients[category] ?? gradients.ostatni;
+---
+<a class="article-card" href={`/${slug}`}>
+  <div class="article-thumb" style={image ? '' : `background: ${bg}`}>
+    {image ? (
+      <img src={image} alt={title}>
+    ) : (
+      <span>[ Obrázek ]</span>
+    )}
+  </div>
+  <div class="article-body">
+    <div class="article-meta">
+      <span class={`article-tag ${cat.tagClass}`}>{cat.label}</span>
+      <span class="article-date">{formatDate(date)}</span>
+    </div>
+    <h3>{title}</h3>
+    <p class="excerpt">{excerpt}</p>
+  </div>
+</a>

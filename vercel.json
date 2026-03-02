@@ -1,0 +1,149 @@
+{
+  "redirects": [
+    {
+      "source": "/rozhovory/radio-zeitung",
+      "destination": "/radio-zeitung",
+      "permanent": true
+    },
+    {
+      "source": "/rozhovory/gabriela-zim",
+      "destination": "/gabriela-zim",
+      "permanent": true
+    },
+    {
+      "source": "/tipy-triky/nastaveni/souhlas-newsletter",
+      "destination": "/souhlas-newsletter",
+      "permanent": true
+    },
+    {
+      "source": "/tipy-triky/nastaveni/jak-oznacit-spolupraci",
+      "destination": "/jak-oznacit-spolupraci",
+      "permanent": true
+    },
+    {
+      "source": "/tipy-triky/vyzkouseli-jsme-4-predplatne-abyste-vy-nemuseli",
+      "destination": "/vyzkouseli-jsme-4-predplatne-abyste-vy-nemuseli",
+      "permanent": true
+    },
+    {
+      "source": "/rozhovory/brain-we-are-nase-podcasty-si-lidi-pustili-uz-16-milionkrat",
+      "destination": "/brain-we-are-nase-podcasty-si-lidi-pustili-uz-16-milionkrat",
+      "permanent": true
+    },
+    {
+      "source": "/od-vseho-neco/co-je-to-creators-economy",
+      "destination": "/co-je-to-creators-economy",
+      "permanent": true
+    },
+    {
+      "source": "/tipy-triky/nastaveni/profil-jak-vyplnit",
+      "destination": "/profil-jak-vyplnit",
+      "permanent": true
+    },
+    {
+      "source": "/tipy-triky/tri-klice-k-uspechu",
+      "destination": "/tri-klice-k-uspechu",
+      "permanent": true
+    },
+    {
+      "source": "/tipy-triky/nastaveni/jak-zacit-na-forendors-rady-a-tipy-pro-nove-tvurce",
+      "destination": "/jak-zacit-na-forendors-rady-a-tipy-pro-nove-tvurce",
+      "permanent": true
+    },
+    {
+      "source": "/tipy-triky/nastaveni/livestream-na-forendors",
+      "destination": "/livestream-na-forendors",
+      "permanent": true
+    },
+    {
+      "source": "/tipy-triky/nastaveni/obs-studio-nastaveni",
+      "destination": "/obs-studio-nastaveni",
+      "permanent": true
+    },
+    {
+      "source": "/rozhovory/michelle-losekoot-rozhovor",
+      "destination": "/michelle-losekoot-rozhovor",
+      "permanent": true
+    },
+    {
+      "source": "/tipy-triky/nastaveni/monetizace-vzdelavaciho-obsahu",
+      "destination": "/monetizace-vzdelavaciho-obsahu",
+      "permanent": true
+    },
+    {
+      "source": "/tipy-triky/pravidelnost-je-uspech",
+      "destination": "/pravidelnost-je-uspech",
+      "permanent": true
+    },
+    {
+      "source": "/rozhovory/rodicovska-posilovna-spolecne-jsme-zacali-hledat-cestu-jak-resilienci-priblizit-rodicum",
+      "destination": "/rodicovska-posilovna-spolecne-jsme-zacali-hledat-cestu-jak-resilienci-priblizit-rodicum",
+      "permanent": true
+    },
+    {
+      "source": "/rozhovory/klara-klapi-mouchova",
+      "destination": "/klara-klapi-mouchova",
+      "permanent": true
+    },
+    {
+      "source": "/rozhovory/marketa-lukaskova",
+      "destination": "/marketa-lukaskova",
+      "permanent": true
+    },
+    {
+      "source": "/rozhovory/daniel-prazak",
+      "destination": "/daniel-prazak",
+      "permanent": true
+    },
+    {
+      "source": "/rozhovory/andrej-polescuk",
+      "destination": "/andrej-polescuk",
+      "permanent": true
+    },
+    {
+      "source": "/rozhovory/honza-dvoracek",
+      "destination": "/honza-dvoracek",
+      "permanent": true
+    },
+    {
+      "source": "/rozhovory/eva-vasova",
+      "destination": "/eva-vasova",
+      "permanent": true
+    },
+    {
+      "source": "/tipy-triky/7-tipu-jak-prekonat-imposter-syndrom",
+      "destination": "/7-tipu-jak-prekonat-imposter-syndrom",
+      "permanent": true
+    },
+    {
+      "source": "/tipy-triky/15-zpusobu-monetizace-vlastni-tvorby",
+      "destination": "/15-zpusobu-monetizace-vlastni-tvorby",
+      "permanent": true
+    },
+    {
+      "source": "/tipy-triky/proc-je-fajn-tvorit-obsahove-newslettery",
+      "destination": "/proc-je-fajn-tvorit-obsahove-newslettery",
+      "permanent": true
+    },
+    {
+      "source": "/tipy-triky/platit-za-obsah-je-normalni",
+      "destination": "/platit-za-obsah-je-normalni",
+      "permanent": true
+    },
+    {
+      "source": "/tipy-triky/nastaveni/plne-verze-podcastu-k-poslechu-i-na-spotify",
+      "destination": "/plne-verze-podcastu-k-poslechu-i-na-spotify",
+      "permanent": true
+    },
+    {
+      "source": "/tipy-triky/trh-s-placenym-obsahem-roste-a-podcasty-vedou",
+      "destination": "/trh-s-placenym-obsahem-roste-a-podcasty-vedou",
+      "permanent": true
+    },
+    {
+      "source": "/tipy-triky/od-napadu-k-mikrofonu-jak-nahrat-vlastni-podcast",
+      "destination": "/od-napadu-k-mikrofonu-jak-nahrat-vlastni-podcast",
+      "permanent": true
+    }
+  ]
+}

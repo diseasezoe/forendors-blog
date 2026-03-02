@@ -1,0 +1,30 @@
+---
+import ArticleCard from './ArticleCard.astro';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  posts: CollectionEntry<'blog'>[];
+}
+
+const { posts } = Astro.props;
+---
+{posts.length > 0 ? (
+  <div class="articles-grid">
+    {posts.map(post => (
+      <ArticleCard
+        slug={post.id}
+        title={post.data.title}
+        excerpt={post.data.excerpt}
+        date={post.data.date}
+        category={post.data.category}
+        image={post.data.image}
+        tags={post.data.tags}
+      />
+    ))}
+  </div>
+) : (
+  <div class="no-results">
+    <h3>Žádné články</h3>
+    <p>V této kategorii zatím nemáme žádné články.</p>
+  </div>
+)}

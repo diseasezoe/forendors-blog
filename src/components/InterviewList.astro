@@ -1,0 +1,29 @@
+---
+import InterviewCard from './InterviewCard.astro';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  interviews: CollectionEntry<'blog'>[];
+}
+
+const { interviews } = Astro.props;
+---
+{interviews.length > 0 && (
+  <>
+    <div class="section-header">
+      <h2>Povídali jsme si s...</h2>
+      <p>Rozhovory s tvůrci, kteří na Forendors budují svoji komunitu.</p>
+    </div>
+    <div class="interview-list">
+      {interviews.map(post => (
+        <InterviewCard
+          slug={post.id}
+          title={post.data.title}
+          excerpt={post.data.excerpt}
+          date={post.data.date}
+          initials={post.data.interviewInitials ?? '??'}
+        />
+      ))}
+    </div>
+  </>
+)}

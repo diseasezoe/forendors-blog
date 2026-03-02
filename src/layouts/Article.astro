@@ -1,0 +1,51 @@
+---
+import Base from './Base.astro';
+import { getCategoryInfo } from '../lib/categories';
+import { formatDateLong } from '../lib/dates';
+
+interface Props {
+  title: string;
+  excerpt: string;
+  date: Date;
+  category: string;
+  image?: string;
+}
+
+const { title, excerpt, date, category, image } = Astro.props;
+const cat = getCategoryInfo(category);
+---
+<Base title={title} description={excerpt} image={image}>
+  <div class="content" style="padding-top: 0;">
+    <div class="article-header">
+      <div class="breadcrumb">
+        <a href="/">Blog</a> &rsaquo; <a href={`/kategorie/${cat.slug}`}>{cat.label}</a>
+      </div>
+      <h1>{title}</h1>
+      <div class="article-meta-bar">
+        <span class={`article-tag ${cat.tagClass}`}>{cat.label}</span>
+        <span class="article-date">{formatDateLong(date)}</span>
+      </div>
+    </div>
+
+    {image && (
+      <div class="article-hero-img">
+        <img src={image} alt={title}>
+      </div>
+    )}
+
+    <article class="prose">
+      <slot />
+    </article>
+
+    <div style="max-width: 720px; margin: 48px auto 0; padding-top: 32px; border-top: 1.5px solid var(--border); text-align: center;">
+      <a href="/" class="read-more" style="font-size: 15px;">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Zpět na blog
+      </a>
+    </div>
+  </div>
+
+  <div class="content">
+    <slot name="newsletter" />
+  </div>
+</Base>

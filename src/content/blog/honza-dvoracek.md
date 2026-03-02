@@ -1,0 +1,84 @@
+---
+title: "Honza Dvořáček: Základem je tvořit obsah tak, aby to bavilo jak komunitu, tak tvůrce"
+excerpt: "Milujete hory? A k tomu i rádi běháte?"
+date: 2022-10-07
+category: rozhovor
+tags: []
+interviewSubject: "Honza Dvořáček"
+interviewInitials: "HD"
+draft: false
+---
+
+Milujete hory? A k tomu i rádi běháte? V tom případě vás určitě potěší dnešní rozhovor s [Honzou Dvořáčkem](https://www.forendors.cz/trailrun.cz), který svou lásku k horám i k běhu propojil v projektu [Trailrun.cz](https://www.trailrun.cz/). Dozvíte se víc nejen o Honzovi a jeho projektu, ale i o tom, jak si vybírá hosty do svého podcastu Makej vole! a co radí začínajícím tvůrcům.
+
+**Mohl by ses nám na začátek trochu představit? Kdo jsi a čemu se věnuješ?**
+
+Už jen tahle otázka by asi byla na celý samostatný rozhovor, ale tak pokusím se to nějak ve zkratce popsat 🙂. Celý můj život se motá kolem sportu. Léta jsem jezdil s Kateřinou Neumannovou a dalšími sportovci po závodech a dělal jsem jim takovou „pravou ruku“. Řešil jsem jak marketingové aktivity, tak i běžné provozní věci. A do toho jsem sám hodně sportoval. Posledních 12 let se živím digitálním marketingem na volné noze. Mám pár dlouholetých klientů, kterým pomáhám vydělávat peníze. Čím víc peněz jim pomůžu vydělat, tím jsou se mnou spokojenější a vydělám i já. Jednoduchá rovnice 🙂. A k tomu mám ještě projekt [Trailrun.cz](https://www.trailrun.cz/) s podcastem [Makej vole!](https://www.forendors.cz/trailrun.cz), který se rozjel víc než jsem čekal. Takže ve zkratce by se dalo říct, že mě baví sport, marketing a komunikace.
+
+**A jak všechno tohle zvládáš časově? Daří se ti skloubit práci, koníčky a přípravu obsahu?**
+
+Příprava obsahu pro [Trailrun.cz](https://www.trailrun.cz/) a podcast [Makej vole!](https://www.forendors.cz/trailrun.cz) sežere hodně času. Jedna epizoda podcastu vyjde minimálně na jeden „člověkoden“ práce. V plánování a řízení jsem hodně „digitální“ a na organizaci času používám aplikace Evernote (pro poznámky) a Freelo (pro projektové řízení). Ale i tak prostě občas nestíhám. Podle mě je potřeba si uvědomit, že všechny tyhle appky a „gétédéčka“ nám sice pomáhají lépe zvládat a organizovat svoji práci, ale taky nás ženou do toho, že si nakládáme té práce víc. Takže je dobré si předem definovat, kolik toho chci odpracovat a některé kšefty prostě pustit někomu jinému. Nebo tak to aspoň dělám já  🙂.
+
+**To zní jako zdravý přístup. Hlavně, když si k tomu najdeš čas i na sport – které sporty jsi zkusil a který z nich ti přirostl k srdci nejvíc?**
+
+Zkusil jsem velké množství sportů. Moc mě nikdy nebraly kolektivní sporty, i když jsem skoro celou základku hrál basket. Ale potom zvítězila horská cyklistika a šel jsem víc do vytrvalostních sportů. V současné době mě nejvíc baví hory v jakékoliv podobě. Běhám, jezdím na kole, na skialpech i běžkách. Baví mě se zničit a hlavně se dostat nahoru. Protože „to tam prostě vždycky je“ 🙂. A pár let jsem i boxoval za místní boxerský oddíl. Rozhodně bych všem doporučil, aby si zkusili některý z bojových sportů, protože tohle dokáže měnit lidi. A to jak fyzicky, tak mentálně. Zjistíte, že to není jen nesmyslné bití někoho do hlavy, ale je to o disciplíně, ovládání svého těla a taky mysli. I dnes si občas na konci běžeckého tréninku dám pár kol stínového boxu nebo švihadlo.
+
+**Tvoje láska k horám se odráží i v tvém projektu Trailrun.cz. Pověz nám o něm něco víc.**
+
+Projekt Trailrun byl v počátku jen o trailovém běhání. Během těch osmi let, co funguje, tohle téma ale přerostl a je přesně o výše uvedených aktivitách – cokoliv na horách a co nejdál a nejvýš 🙂. Co se týká podcastu, tak ten se snažím dělat v takovém netradičním, volnějším duchu, aby bavil jak sportovce, tak lidi, co zrovna tyhle sporty třeba moc nezajímají. Mám rád srandu a snažím se to přenášet i do podcastu. Ten by měl být podle mě jak informačně zajímavý, tak zábavný.
+
+![](https://blog.pickey.cz/wp-content/uploads/2022/10/6C80825F-A0C9-4675-8A5A-E06EB646264C.png)
+
+**Podcast Makej vole! byl v plánu už při založení webu, nebo tenhle nápad přišel až časem?**
+
+Podcast jsem měl v hlavě skoro od počátku Trailrunu. Ale pořád jsem nevěděl, jak na to. Pak mě požádal Patrik Kincl (současný šampion Oktagon MMA), jestli bych mu nepomohl s natočením první epizody podcastu Fight & Talk. Nějak jsme to dali dokupy a vlastně se to moc nepovedlo, ale viděl jsem, že to není zas tak složité. Mimochodem, točili jsme to ve zkušebně borců z Milion+ a byl to fakt velký punk 🙂. Chvilku potom mě do svého podcastu pozval jako hosta další zápasník Honza Homolka a to byla poslední kapka k tomu, abych se rozhoupal a rozjel svůj vlastní podcast. Mimochodem, o tom, jak jsem to v začátcích řešil a co je k tomu potřeba jsem sepsal ultimátní [návod pro podcastové začátečníky](https://www.trailrun.cz/cs/m-329-jak-zacit-natacet-podcast).
+
+**Jakým způsobem si vybíráš hosty do podcastu?**
+
+Hosty vybírám podle aktuálnosti témat a taky mě to téma nebo člověk musí něčím zaujmout. Tohle je důležité v přípravě otázek. Pokud mě to téma aktuálně netáhne, tak se hodně těžko vymýšlejí otázky a nejsem si jistý výsledkem. Proto jsem už x podcastů prozatím odsunul, abych měl čas se na to připravit. Hodně lidí mi posílá tipy na hosty, ale není to prostě tak jednoduché, jak to možná vypadá.
+
+**A už se ti stalo, že tě nějaký host odmítnul?**
+
+Nikdo mě zatím vyloženě neodmítnul. Jen jsme se třeba s hostem předběžně dohodli, ale pak se už neozval. Myslím si, že je to ale tím, že ten host tu konverzaci třeba trochu zazdí a pak je mu blbý se ozvat. Takže se občas připomínám. Ale jak jsem popsal výše – i mně to občas trochu trvá než se dostanu na vlnu a připravím otázky.
+
+**Máš třeba nějakou „veselou historku z natáčení“?**
+
+Všechny moje podcasty jsou jedna velká veselá historka z natáčení 😀.
+
+**Co byl první impuls k monetizaci obsahu?**
+
+První impuls k monetizaci přišel, když jsem zjistil, že k tomu, aby měl podcast nějakou kvalitu, potřebuju lepší vybavení. Tedy mikrofon, lepší iPhone (teď jsem koupil kameru) a víc času pro přípravu a postprodukci. Ze začátku mi dost lidí psalo, že podcast je super, ale že zvuk je na nic. Ještě aby ne, natáčel jsem na GoPro a byla to dost divočina. Takže jsem zainvestoval a snažil jsem se to posunout někam dál. Pak se podcast rozjel a začal mi žrát dost pracovního času, tak jsem se rozhodl, že zkusím oslovit nějaké reklamní partnery a paywall. A začalo to dávat smysl. Bavím lidi obsahem, jehož příprava mě stojí kopec času a peněz, tak proč by nezaplatili nějaké drobné. Jak já říkám: „Pro vás pár drobných a pro mě kopec práce a taky motivace nezklamat vás 🙂“.
+
+**Jak ses dozvěděl o Forendors a co tě přesvědčilo to s námi zkusit?**
+
+Začal jsem na Patreonu. Rozchodit to byl porod, ale podařilo se a celkem se to rozjelo. Mezitím jsem sledoval českou scénu paywall platforem a viděl jsem, že otázku monetizace obsahu řeší i má dávná kámoška [Michelle Losekoot](https://www.forendors.cz/michelle_lskt). Tak jsem jí napsal a domluvili jsme se, že si zavoláme a předáme si nějaké know-how. Což se nestalo, protože jsme na to ani jeden asi neměli čas 😀. A po čase jsem někde narazil na rozhovor s Michelle, kde zmiňovala Forendors. Nezávisle na tom jsem narazil na podcast Jedno procento Miloše Čermáka, kam si pozval spoluzakladatelku Forendors [Denisu Hrubešovou](https://www.linkedin.com/in/denisahrubesova/). Hned mi přišlo, že je Denisa moje krevní skupina a začal jsem proklikávat Forendors, abych věděl, co to umí. A pak jsem to prostě rozjel kromě Patreonu i na Forendors. Česká platforma, trochu větší výdělek, super support a vidina skvělých funkcí. V tomhle vidím výhody Forendors.
+
+**Jsme rádi, že tě tady máme! Prozraď nám, jaké byly tvé začátky na Forendors – měl jsi raketový start, nebo byl rozjezd pomalejší?**
+
+Začátky byly pomalé, stejně jako na Patreonu, ale pak se to rozjelo. Počet pikařů se zvyšoval v takových vlnách, podle toho, jak se asi zrovna líbila aktuální epizoda. Velký vliv na to asi taky měla změna přístupu – nejdřív jsem měl hlavní část podcastu zdarma a na Forendors byl bonusový obsah. Těžko se mi ale odhadovalo, kolik času zaberou odpovědi na bonusové otázky a měl jsem pocit, že je to občas jalový. Takže jsem udělal změnu a teď točím dlouhý podcast a prostě ho rozdělím na polovinu. Půlka je zdarma (s reklamou), klasicky na podcastových platformách Spotify, Apple Podcast, Anchor atd. a celá verze podcastu je bez reklamy na Forendors.
+
+![](https://blog.pickey.cz/wp-content/uploads/2022/10/5D2C698C-DB5C-4EC9-AE2C-E3E22BD4B4BD.png)
+
+**Jakým způsobem buduješ svou komunitu?**
+
+Tohle je skvělá otázka. Komunita je totiž základ! Já už na ní pracuju víc než osm let na sociálních sítích, webu a taky svou účastí na různých závodech, akcích nebo vytvářením příběhů při mých výletech. Nakoupil jsem tunu techniky (foťáky, objektivy, kamery, GoPročka a další vychytávky), abych měl netradiční a zároveň kvalitní obsah. Dalším důležitým bodem je příběh. A to jak u podcastu, tak u komunikace s komunitou. Snažím se, aby všechny výstupy byly mikro příběhem. Vždycky říkám, že to musí být jak Bondovka – kulervoucí začátek, skvělej prostředek a fantastickej závěr, kterej vyvolá nějakou reakci. Lidi si to pak „zakliknou,“ aby jim neutekla další bejkárna 🙂.
+
+**Je vidět, že udržuješ fanoušky pořád ve střehu **😀. **Kde všude můžou tvoje mikro příběhy sledovat?**
+
+Trailrun.cz je na [Facebooku](https://www.facebook.com/trailruncz), [Instragramu](https://www.instagram.com/trailrun.cz/), [Youtube](https://www.youtube.com/channel/UC-6OytJ_a8B3lhqL16rnKSA), [Strava](https://www.strava.com/athletes/6468265), [webu](https://www.trailrun.cz), [Forendors](https://www.forendors.cz/trailrun.cz). Doufám, že jsem na něco nezapomněl. Jako hosta mě pozval Honza Homolka do svého [podcastu Fair Play Thinker](https://ceskepodcasty.cz/episode/ELtvNw08DWfDzE6BZog7) a Michail Tsvetanov do [podcastu Athletic Longevity](https://www.athleticlongevity.life/jan-dvoracek-moji-nejvetsi-vyhrou-jsou-zazitky/). A nějaké další rozhovory se rýsují.
+
+**Kolik máš v tuhle chvíli na Forendors sledujících a z toho podporovatelů?**
+
+Na Forendors mám teď 52 sledujících a 46 podporovatelů. Nijak se tím netajím. Dostávám zaplaceno za odvedenou práci a lambo si za to určitě nekoupím. Tedy aspoň zatím 😀.
+
+**Co bys poradil začínajícím tvůrcům, kteří si chtějí vybudovat komunitu a úspěšně svůj obsah monetizovat?**
+
+Základ je, dělat to tak, aby to bavilo jak komunitu, tak tvůrce. Nedělat to prostě jen kvůli tomu, že si myslím, že by to mohlo vydělat peníze. A taky je potřeba vydržet. Říká se, že většina podcastů končí osmou epizodou. Pak to většinu tvůrců přestane bavit. Taky poslouchám i jiné podcasty a snažím se získávat z nich inspiraci pro další vylepšení mého obsahu. No a pak je potřeba se připravit, že je to pravidelná makačka. Je prostě potřeba „Makat vole!“ 😀.
+
+**Plánuješ do budoucna zařadit v rámci projektu Trailrun.cz i nějaké další aktivity?**
+
+Mám pár nápadů na rozšíření obsahu. Jak textového, tak podcastového a k tomu i nějaký video obsah. Sám to ale nezvládnu, tak si dávám dokupy koncepci a vymýšlím s kamarádem, jak ho do toho zapojit, aby ho to aspoň částečně zaplatilo a zároveň nás to bavilo. Uvidíme  🙂.
+
+Honzovi moc děkujeme za prima rozhovor, držíme mu palce, aby měl pořád spoustu sil „makat vole!“ 🙂 a těšíme se na další díly jeho podcastu!
+
+[Tudy se jde zpět na Forendors.](https://forendors.cz/)

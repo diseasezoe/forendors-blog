@@ -1,0 +1,22 @@
+---
+import { formatDate } from '../lib/dates';
+
+interface Props {
+  slug: string;
+  title: string;
+  excerpt: string;
+  date: Date;
+  initials: string;
+}
+
+const { slug, title, excerpt, date, initials } = Astro.props;
+---
+<a class="interview-card" href={`/${slug}`}>
+  <div class="interview-avatar">{initials}</div>
+  <div class="interview-content">
+    <h3>{title}</h3>
+    <p>{excerpt}</p>
+  </div>
+  <span class="interview-date">{formatDate(date)}</span>
+  <svg class="interview-arrow" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><polyline points="9 18 15 12 9 6"/></svg>
+</a>

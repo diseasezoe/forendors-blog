@@ -1,0 +1,31 @@
+---
+interface Props {
+  currentPage: number;
+  totalPages: number;
+  baseUrl?: string;
+}
+
+const { currentPage, totalPages, baseUrl = '' } = Astro.props;
+
+function pageUrl(page: number): string {
+  if (page === 1) return baseUrl || '/';
+  return `${baseUrl}/${page}`;
+}
+---
+{totalPages > 1 && (
+  <div class="pagination">
+    {currentPage > 1 && (
+      <a class="page-btn arrow" href={pageUrl(currentPage - 1)}>
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><polyline points="15 18 9 12 15 6"/></svg>
+      </a>
+    )}
+    {Array.from({ length: totalPages }, (_, i) => i + 1).map(page => (
+      <a class={`page-btn ${page === currentPage ? 'active' : ''}`} href={pageUrl(page)}>{page}</a>
+    ))}
+    {currentPage < totalPages && (
+      <a class="page-btn arrow" href={pageUrl(currentPage + 1)}>
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><polyline points="9 6 15 12 9 18"/></svg>
+      </a>
+    )}
+  </div>
+)}
