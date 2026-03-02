@@ -8,15 +8,13 @@ featured: true
 draft: false
 ---
 
-**Podcasty.** V posledních letech se s nimi roztrhl pytel. Mluvit do mikrofonu a sdílet svůj hlas, vášeň nebo odbornost s posluchači po celém světě nikdy nebylo snazší. Ať už sníte o rozhovorech s inspirativními osobnostmi, chcete vzdělávat, bavit, nebo jen sdílet své myšlenky, **podcast je ideální médium**, které vám to umožní. A my vám ukážeme, jak na to.
+**Podcasty.**V posledních letech se s nimi roztrhl pytel. Mluvit do mikrofonu a sdílet svůj hlas, vášeň nebo odbornost s posluchači po celém světě nikdy nebylo snazší. Ať už sníte o rozhovorech s inspirativními osobnostmi, chcete vzdělávat, bavit, nebo jen sdílet své myšlenky, **podcast je ideální médium**, které vám to umožní. A my vám ukážeme, jak na to.
 
-Doba, kdy jste na realizaci vlastního podcastu potřebovali drahé vybavení nebo technické znalosti je pryč. **Stačí vám jen dobrý nápad a zbytek už je hračka!**
-
-## Než půjdete nahrávat - o čem to bude?
+Doba, kdy jste na realizaci vlastního podcastu potřebovali drahé vybavení nebo technické znalosti je pryč. **Stačí vám jen dobrý nápad a zbytek už je hračka!**## Než půjdete nahrávat - o čem to bude?
 
 Ještě než se pustíte do samotného nahrávání, je potřeba si ujasnit o čem podcast bude, kdo je jeho cílovou skupinou nebo jak by měl vypadat. Určitě si nezapomeňte položit následující otázky.
 
-**Jaké je téma vašeho podcastu?** Buďte specifičtí. Chcete se zaměřit na technologie, kulturu, vzdělávání, osobní rozvoj, nebo něco úplně jiného? Nesnažte se cílit na všechny, naopak.
+**Jaké je téma vašeho podcastu?**Buďte specifičtí. Chcete se zaměřit na technologie, kulturu, vzdělávání, osobní rozvoj, nebo něco úplně jiného? Nesnažte se cílit na všechny, naopak.
 
 **Jaký je cíl vašeho podcastu? **Chcete bavit, vzdělávat, inspirovat, nebo třeba prodávat? A proč by lidé měli poslouchat zrovna váš podcast?
 
@@ -24,15 +22,15 @@ Ještě než se pustíte do samotného nahrávání, je potřeba si ujasnit o č
 
 **Jak často budete publikovat? **Stanovte si také frekvenci vydávání, kterou zvládnete dodržet. Pro udržení posluchačů/diváků a růst publika je klíčová především pravidelnost a konzistence.
 
-Teprve začínáte, nebo si nedokážete si na některé z těchto otázek odpovědět? **Chcete, aby vás někdo provedl krok za krokem?** V tom případě můžeme maximálně doporučit [Příručku pro začínající tvůrce](https://www.forendors.cz/tvurcast/s/prirucka-pro-zacinajici-tvurce), která vznikla v rámci podcastu [Tvůrcast](https://www.forendors.cz/tvurcast).
+Teprve začínáte, nebo si nedokážete si na některé z těchto otázek odpovědět? **Chcete, aby vás někdo provedl krok za krokem?**V tom případě můžeme maximálně doporučit [Příručku pro začínající tvůrce](https://www.forendors.cz/tvurcast/s/prirucka-pro-zacinajici-tvurce), která vznikla v rámci podcastu [Tvůrcast](https://www.forendors.cz/tvurcast).
 
 ## Kde a jak nahrávat?
 
-Máte nápad a představu o tom, jak by měl váš podcast vypadat? Skvělé! **Teď je čas přejít k samotnému nahrávání.** Možností jak nahrát podcast je více, my je dnes rozdělíme na 2 varianty.
+Máte nápad a představu o tom, jak by měl váš podcast vypadat? Skvělé! **Teď je čas přejít k samotnému nahrávání.**Možností jak nahrát podcast je více, my je dnes rozdělíme na 2 varianty.
 
-**Nahrávání doma.** Začít je možné i v domácím prostředí. Budete potřebovat zejména kvalitní mikrofon a software pro nahrávání a střih. Přestože se může tato varianta zdát ekonomičtější, výstupy z improvizovaného prostředí nikdy nedosáhnou takové kvality zvuku, jako když nahráváte ve specializovaně odhlučněné místnosti.
+**Nahrávání doma.**Začít je možné i v domácím prostředí. Budete potřebovat zejména kvalitní mikrofon a software pro nahrávání a střih. Přestože se může tato varianta zdát ekonomičtější, výstupy z improvizovaného prostředí nikdy nedosáhnou takové kvality zvuku, jako když nahráváte ve specializovaně odhlučněné místnosti.
 
-**Pronájem profesionálního studia.** Pokud to myslíte s podcastem vážně a chcete dosáhnout špičkové kvality zvuku bez starostí, pronájem [profesionálního nahrávacího studia](https://www.studio.forendors.cz/) je ideální volbou.
+**Pronájem profesionálního studia.**Pokud to myslíte s podcastem vážně a chcete dosáhnout špičkové kvality zvuku bez starostí, pronájem [profesionálního nahrávacího studia](https://www.studio.forendors.cz/) je ideální volbou.
 
 ## Nechcete se o nic starat? Využijte jedno z našich studií!
 
@@ -46,7 +44,7 @@ Přesně proto jsme pro vás v Praze na Letné otevřeli dvě [profesionální p
 
 **Postaráme se o váš podcast od začátku až do konce. **Nahráváním to nekončí. Postprodukce bývá často ještě náročnější než samotné nahrávání – i tu nám samozřejmě můžete bez obav svěřit.
 
-**Kvalitní zázemí.** Chcete zvát své hosty a nahrávat v příjemném prostředí, kde najdete vše potřebné a bude o vás dobře postaráno? U nás je to samozřejmost. Zdarma vám při nahrávání nabídneme i kávu, nebo třeba limonádu.
+**Kvalitní zázemí.**Chcete zvát své hosty a nahrávat v příjemném prostředí, kde najdete vše potřebné a bude o vás dobře postaráno? U nás je to samozřejmost. Zdarma vám při nahrávání nabídneme i kávu, nebo třeba limonádu.
 
 **Klienti jsou u nás dlouhodobě spokojení. **Přesvědčte se sami 👇
 

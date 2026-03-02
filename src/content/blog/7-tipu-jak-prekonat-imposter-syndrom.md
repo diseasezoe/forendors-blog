@@ -9,15 +9,13 @@ draft: false
 
 Stává se vám, že o sobě často pochybujete? Máte pocit, že žádná vaše chyba se nepromíjí? Jste přesvědčení, že všechno zvládnete úplně sami a nikoho k sobě nepotřebujete? Pak se u vás možná projevuje imposter syndrom, neboli syndrom podvodníka.
 
-**Imposter syndrom je stav, kdy přisuzujete své dosavadní úspěchy náhodě, omylu nebo štěstí a odmítáte připustit vlastní kvality.** Často je tento psychologický stav doprovázený úzkostmi a strachem z toho, že vás okolí nakonec prokoukne. Paradoxně jím trpí nejvíc lidé, kteří jsou inteligentní a velice schopní. 
+**Imposter syndrom je stav, kdy přisuzujete své dosavadní úspěchy náhodě, omylu nebo štěstí a odmítáte připustit vlastní kvality.**Často je tento psychologický stav doprovázený úzkostmi a strachem z toho, že vás okolí nakonec prokoukne. Paradoxně jím trpí nejvíc lidé, kteří jsou inteligentní a velice schopní. 
 
 ## Zdravá sebereflexe nebo syndrom podvodníka?
 
 Je velmi tenká hranice mezi zdravou sebereflexí a syndromem podvodníka. Zatímco to první vám pomáhá filtrovat nápady a často vás dovede až k tomu nejlepšímu, to druhé vám háže klacky pod nohy, i když už ten skvělý nápad máte. 
 
-**Imposter syndrom se projevuje například následovně:**
-
-- Porovnáváte svou práci s ostatními – zatímco práci ostatních hodnotíte velmi nekriticky, vaše vlastní se vám vedle toho zdá příšerná, zbytečná a k ničemu. Máte navíc tendenci se porovnávat s těmi nejlepšími v oboru, kteří mají před vámi už několik let praxe náskok.
+**Imposter syndrom se projevuje například následovně:**- Porovnáváte svou práci s ostatními – zatímco práci ostatních hodnotíte velmi nekriticky, vaše vlastní se vám vedle toho zdá příšerná, zbytečná a k ničemu. Máte navíc tendenci se porovnávat s těmi nejlepšími v oboru, kteří mají před vámi už několik let praxe náskok.
 - Těžko přijímáte pochvaly a máte pocit, že vás ostatní chválí jen ze soucitu.
 - Bojíte se zkoušet nové věci, abyste neselhali – to, že něco nevyjde, neberete jako možnost k růstu, ale jako naprosté selhání a potvrzení vlastní neschopnosti. 
 - Vidíte jen neúspěchy – i když je za vámi dlouhá cesta a můžete se pyšnit všelijakými úspěchy, pro vás to jsou jen drobnosti a nedokážete je náležitě ocenit. Místo toho se „bičujete“ za sebemenší neúspěch.

@@ -11,51 +11,29 @@ draft: false
 
 Už je to u nás taková tradice, že vám jednou za čas přineseme rozhovor s některým z našich tvůrců. Dnes máme hned dva: Kryštof a Vojta, které znáte spíš pod jménem [Brain We Are](https://www.forendors.cz/brainweare) nám v dnešním rozhovoru řeknou něco o tom, jaká byla jejich tvůrčí cesta, jak začínali s monetizací svého obsahu a na jaké jejich plány se můžeme těšit do budoucna.
 
-**Pro ty co vás neznají, můžete se krátce představit?**
+**Pro ty co vás neznají, můžete se krátce představit?**Tak jak už samotný název vypovídá, jsme dva mozky, co se potkali při studiu biologie a zajímali se o podobná témata jako jsou ty nejpalčivější otázky vůbec - povaha vědomí a reality. Místo školy jsme pak často chodili vést dlouhý rozhovory u zeleného čaje. A tyhle rozhovory pokračují dodnes. Jen s tím rozdílem, že jsme mezi sebe dali mikrofon a začali nahrávat podcast. 
 
-Tak jak už samotný název vypovídá, jsme dva mozky, co se potkali při studiu biologie a zajímali se o podobná témata jako jsou ty nejpalčivější otázky vůbec - povaha vědomí a reality. Místo školy jsme pak často chodili vést dlouhý rozhovory u zeleného čaje. A tyhle rozhovory pokračují dodnes. Jen s tím rozdílem, že jsme mezi sebe dali mikrofon a začali nahrávat podcast. 
+**Takže se rádi motáte kolem všech témat, která souvisí právě s mozkem...**No jasně, ten máme totiž jen jeden a formuje veškeré naše prožívání od narození až po poslední myšlenku. Mozek není neměnná věc, ale dá se s ním celoživotně pracovat. Naší náplní je studovat to, jak si tuhle mašinu mezi ušima se sta miliardami neuronů vytunit na maximum. A tak se hrabeme ve studiích, přednáškách a ty užitečné, a hlavně využitelné informace pak zkoušíme na sobě a předáváme dál. Mimo to si i zveme hosty, kteří jsou zapálení do nějakého pro nás zajímavého tématu a zpovídáme je. Je to práce, která nás dostala na tak zajímavá místa k tak zajímavým lidem, že hodnota, kterou to pro mě má, je nevyčíslitelná. 
 
-**Takže se rádi motáte kolem všech témat, která souvisí právě s mozkem...**
+**Zrovna tato témata si své publikum musela najít, ne?**Kvůli roztříštění podcastů do různých platforem, se obecenstvo těžce měří. Ale za ty 3 roky si nás lidi pustili zhruba 1,6 milionkrát, což je až neuvěřitelný. Každý díl slyší podle nám přístupných dat kolem 10 000 mozků. 
 
-No jasně, ten máme totiž jen jeden a formuje veškeré naše prožívání od narození až po poslední myšlenku. Mozek není neměnná věc, ale dá se s ním celoživotně pracovat. Naší náplní je studovat to, jak si tuhle mašinu mezi ušima se sta miliardami neuronů vytunit na maximum. A tak se hrabeme ve studiích, přednáškách a ty užitečné, a hlavně využitelné informace pak zkoušíme na sobě a předáváme dál. Mimo to si i zveme hosty, kteří jsou zapálení do nějakého pro nás zajímavého tématu a zpovídáme je. Je to práce, která nás dostala na tak zajímavá místa k tak zajímavým lidem, že hodnota, kterou to pro mě má, je nevyčíslitelná. 
+**Můžete se díky těmto číslům věnovat pouze podcastu?**Rok nám trvalo, než jsme si řekli světu o nějakou formu podpory a další dva, než se o nás celý projekt začal postupně starat i finančně. Ještě nás čeká dlouhá cesta, ale rozhodně bych si nikdy nevysnil, že budu dělat právě tohle naplno a že mi to zaplatí nájem. 
 
-**Zrovna tato témata si své publikum musela najít, ne?**
+**Jak jste vůbec začali s monetizací?**Punkově! Založili jsme si startovač, kde nás lidi mohli každý měsíc podpořit. Když nám dorostlo sebevědomí, začali jsme nejdřív pořádat naše Chilli meditace...
 
-Kvůli roztříštění podcastů do různých platforem, se obecenstvo těžce měří. Ale za ty 3 roky si nás lidi pustili zhruba 1,6 milionkrát, což je až neuvěřitelný. Každý díl slyší podle nám přístupných dat kolem 10 000 mozků. 
+**Chilli meditace?**To si parta lidí v kolečku dá pálivý chilli, a pak ten vjem zpracovávají v meditaci. Funguje to obdobně jako studená sprcha, i když, uznávám, to zní trochu bláznivě.
 
-**Můžete se díky těmto číslům věnovat pouze podcastu?**
-
-Rok nám trvalo, než jsme si řekli světu o nějakou formu podpory a další dva, než se o nás celý projekt začal postupně starat i finančně. Ještě nás čeká dlouhá cesta, ale rozhodně bych si nikdy nevysnil, že budu dělat právě tohle naplno a že mi to zaplatí nájem. 
-
-**Jak jste vůbec začali s monetizací?**
-
-Punkově! Založili jsme si startovač, kde nás lidi mohli každý měsíc podpořit. Když nám dorostlo sebevědomí, začali jsme nejdřív pořádat naše Chilli meditace...
-
-**Chilli meditace?**
-
-To si parta lidí v kolečku dá pálivý chilli, a pak ten vjem zpracovávají v meditaci. Funguje to obdobně jako studená sprcha, i když, uznávám, to zní trochu bláznivě.
-
-**A jak jste pak tedy pokračovali dál?**
-
-Začali jsme pořádat přednášky o mozku, biohackingu a diskuze o tématech, jako je například svobodná vůle. Od tý doby je to závislost. Interakce s publikem je zkrátka k nezaplacení. V tom se začalo dařit a už už to vypadalo, že se fakt s celým projektem postavíme na vlastní nohy, jenže přišla korona. Musím ale říct, že zase díky tomu všemu jsme měli prostor vymýšlet nový pohnutky. Tak vznikly naše online kurzy a před rokem i Smysluplný kemp, pro který jsme připravili sérii vzdělávacích přednášek a cvičení, kde se snažíme předat to, o čem mluvíme i v praxi a zážitku. Celou dobu nám ale chybělo něco v online světě uživatelsky flexibilního, co by nám umožnilo komunikovat s lidmi a zároveň si od nich říct lidsky o podporu. A proto jsem moc rád, že jste přišli s Forendors.
+**A jak jste pak tedy pokračovali dál?**Začali jsme pořádat přednášky o mozku, biohackingu a diskuze o tématech, jako je například svobodná vůle. Od tý doby je to závislost. Interakce s publikem je zkrátka k nezaplacení. V tom se začalo dařit a už už to vypadalo, že se fakt s celým projektem postavíme na vlastní nohy, jenže přišla korona. Musím ale říct, že zase díky tomu všemu jsme měli prostor vymýšlet nový pohnutky. Tak vznikly naše online kurzy a před rokem i Smysluplný kemp, pro který jsme připravili sérii vzdělávacích přednášek a cvičení, kde se snažíme předat to, o čem mluvíme i v praxi a zážitku. Celou dobu nám ale chybělo něco v online světě uživatelsky flexibilního, co by nám umožnilo komunikovat s lidmi a zároveň si od nich říct lidsky o podporu. A proto jsem moc rád, že jste přišli s Forendors.
 
 ![](https://blog.pickey.cz/wp-content/uploads/2023/09/reference_forendors_brain_we_are.png)
 
-**Čím hlavně vám Forendors udělalo radost?**
+**Čím hlavně vám Forendors udělalo radost?**Hned jak Forendors začalo, bylo jasný, že bude jiný. Teda alespoň já v to tajně doufal. Přístupný, jednoduchý, rozsáhlý a pestrobarevný v nástrojích. Ono je těžký ve světě sociálních sítí udělat další, kam člověk bude rád chodit, a zároveň bude přímočará, užitečná a bude řešit konkrétní problémy určité sociální bubliny. V tomhle si myslím, že jdete naprosto skvělým směrem. Příští rok plánujeme konečně rozjet naši komunitu. Začít propojovat lidi. A Forendors do toho chceme rozhodně zahrnout. Zatím funguje jako takový náš rozcestník pro podporovatele. Je tam veškerý bonusový obsah časově uspořádaný tak, aby nikomu nic neuniklo.
 
-Hned jak Forendors začalo, bylo jasný, že bude jiný. Teda alespoň já v to tajně doufal. Přístupný, jednoduchý, rozsáhlý a pestrobarevný v nástrojích. Ono je těžký ve světě sociálních sítí udělat další, kam člověk bude rád chodit, a zároveň bude přímočará, užitečná a bude řešit konkrétní problémy určité sociální bubliny. V tomhle si myslím, že jdete naprosto skvělým směrem. Příští rok plánujeme konečně rozjet naši komunitu. Začít propojovat lidi. A Forendors do toho chceme rozhodně zahrnout. Zatím funguje jako takový náš rozcestník pro podporovatele. Je tam veškerý bonusový obsah časově uspořádaný tak, aby nikomu nic neuniklo.
+**Jak se vám zatím daří monetizace na Forendors?**Máme nastaveny tři druhy předplatného a posluchači jdou většinou po “Zlaté střední cestě,” kam jsme také směřovali maximum našich výhod. Pokud si člověk připlatí víc, nezíská tím vůbec nic, ale dá nám jasný signál, že nás má rád, a chce nás nakopnout o trochu víc. 
 
-**Jak se vám zatím daří monetizace na Forendors?**
+**Něco, co byste na Forendors vypíchli?**Grafika a rozhraní. Myslím, že je výzva udělat platformu pro tvůrce, aby se jim zamlouvala. A mně se moc líbí ta jednoduchost a příjemnost, která z toho čiší. Když vidím svůj zveřejněný příspěvek, dává mi to zkrátka ten blahodárný dopamin. Pak je to už zmíněná široká paleta nástrojů od různých typů obsahu, až po podcast-friendly prostředí. Co se mi líbí hodně je, že můžu cílit obsah na jednotlivé skupiny podporovatelů nebo veřejně. A v neposlední řadě je tam parta supr lidí a tvůrců, kteří jsou zkrátka mega inspirativní. 
 
-Máme nastaveny tři druhy předplatného a posluchači jdou většinou po “Zlaté střední cestě,” kam jsme také směřovali maximum našich výhod. Pokud si člověk připlatí víc, nezíská tím vůbec nic, ale dá nám jasný signál, že nás má rád, a chce nás nakopnout o trochu víc. 
-
-**Něco, co byste na Forendors vypíchli?**
-
-Grafika a rozhraní. Myslím, že je výzva udělat platformu pro tvůrce, aby se jim zamlouvala. A mně se moc líbí ta jednoduchost a příjemnost, která z toho čiší. Když vidím svůj zveřejněný příspěvek, dává mi to zkrátka ten blahodárný dopamin. Pak je to už zmíněná široká paleta nástrojů od různých typů obsahu, až po podcast-friendly prostředí. Co se mi líbí hodně je, že můžu cílit obsah na jednotlivé skupiny podporovatelů nebo veřejně. A v neposlední řadě je tam parta supr lidí a tvůrců, kteří jsou zkrátka mega inspirativní. 
-
-**Jak se vám daří tvořit tolik obsahu v takové kvalitě?**
-
-Plán je takový, že jsme dva a střídáme se každý týden, kdo si vezme na starost hlavní obsah. A i tak je to zápřah, abychom všechno vůbec stihli. Tvorba a nahrávání to je radost. Nápady přichází neustále. Pak to ale všechno zapracovat do obsahu, aby se to někomu někde objevilo, to je každotýdenní výzva. V podcastu nám pomáhají hlavně sezóny. Po 25 dílech následuje měsíční volno, což zachraňuje naše mentální zdraví. Ale třeba teď jsme v měsíci volna rozjeli druhý podcast Red Pill, takže nám to nicnedělání nikdy dlouho nevydrží. Není to tak, že bychom to vždy plnili na sto procent. Ale je to závazek, nejen vůči sobě navzájem, ale už i vůči publiku, kteří nám dávají svůj čas a pozornost, aby si něco přečetli nebo poslechli. Toho si neskutečně vážíme, protože pozornost je to nejcennější, co člověk má. 
+**Jak se vám daří tvořit tolik obsahu v takové kvalitě?**Plán je takový, že jsme dva a střídáme se každý týden, kdo si vezme na starost hlavní obsah. A i tak je to zápřah, abychom všechno vůbec stihli. Tvorba a nahrávání to je radost. Nápady přichází neustále. Pak to ale všechno zapracovat do obsahu, aby se to někomu někde objevilo, to je každotýdenní výzva. V podcastu nám pomáhají hlavně sezóny. Po 25 dílech následuje měsíční volno, což zachraňuje naše mentální zdraví. Ale třeba teď jsme v měsíci volna rozjeli druhý podcast Red Pill, takže nám to nicnedělání nikdy dlouho nevydrží. Není to tak, že bychom to vždy plnili na sto procent. Ale je to závazek, nejen vůči sobě navzájem, ale už i vůči publiku, kteří nám dávají svůj čas a pozornost, aby si něco přečetli nebo poslechli. Toho si neskutečně vážíme, protože pozornost je to nejcennější, co člověk má. 
 
 **Máte nějaké doporučení na závěr, pro ty co s podcastem začínají?**
 

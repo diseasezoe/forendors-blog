@@ -36,9 +36,9 @@ Pokud budete sdílet pouze audio, tuhle část můžete přeskočit.
 
 Pro video stream je důležité nastavit dva hlavní parametry – *Základní rozlišení *a *Výstupní rozlišení*. Oboje najdete v *Nastavení - Obraz*.
 
-***Základní rozlišení ***= velikost canvasu, neboli plochy, kde se budou zobrazovat jednotlivé zdroje (displej, video atd.). Tohle rozlišení byste si měli nastavit ve stejné velikosti, jako okno, které budete sdílet – např. pokud budete sdílet monitor 2560 x 1440, základní rozlišení v OBS by mělo být nastavené na stejnou velikost. Základní rozlišení by nemělo být menší než výstupní rozlišení, jinak se může stát, že bude obraz rozmazaný.
+**Základní rozlišení **= velikost canvasu, neboli plochy, kde se budou zobrazovat jednotlivé zdroje (displej, video atd.). Tohle rozlišení byste si měli nastavit ve stejné velikosti, jako okno, které budete sdílet – např. pokud budete sdílet monitor 2560 x 1440, základní rozlišení v OBS by mělo být nastavené na stejnou velikost. Základní rozlišení by nemělo být menší než výstupní rozlišení, jinak se může stát, že bude obraz rozmazaný.
 
-***Výstupní rozlišení*** = rozlišení streamu, jak se bude přehrávat na webu. Forendors podporuje maximálně 1920 x 1080 (není tedy nutné nastavovat větší rozlišení) a ideální poměr stran je 16 : 9.
+**Výstupní rozlišení**= rozlišení streamu, jak se bude přehrávat na webu. Forendors podporuje maximálně 1920 x 1080 (není tedy nutné nastavovat větší rozlišení) a ideální poměr stran je 16 : 9.
 
 ![Pro video stream si nastavte základní a výstupní rozlišení](https://blog.pickey.cz/wp-content/uploads/2022/01/Screenshot-2022-01-23-at-08.30.33.png)
 
@@ -58,7 +58,7 @@ Nejprve se pojďme podívat, jak OBS Studio po spuštění vypadá a co v jaké 
 
 **Sdílení obsahu **– jestli chcete během livestreamu sdílet například nějakou prezentaci nebo webovou stránku, zvolte možnost *Záznam okna (Window Capture)* nebo – pokud máte více monitorů – *Záznam obrazovky (Display Capture)*. Potvrďte a jako další krok vyberte okno nebo monitor, které chcete sdílet.
 
-***Tip Forendors: ****Pokud potřebujete sdílet víc dokumentů naráz (například ukázat rozdíl mezi dvěma webovými stránkami), jednoduše přidáte další Záznam okna (Window Capture), zvolíte další okno a v livestreamu se zobrazí obě současně, nebo obě okna umístíte na sdílený monitor.*
+**Tip Forendors: **Pokud potřebujete sdílet víc dokumentů naráz (například ukázat rozdíl mezi dvěma webovými stránkami), jednoduše přidáte další Záznam okna (Window Capture), zvolíte další okno a v livestreamu se zobrazí obě současně, nebo obě okna umístíte na sdílený monitor.*
 
 ![Pod Zdroji si můžete nastavit sdílení i více oken/obrazovek současně](/images/articles/2-1024x726.png)
 

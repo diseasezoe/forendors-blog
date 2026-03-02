@@ -22,11 +22,11 @@ Teď už se ale pojďme podívat na jednotlivé kroky detailněji.
 
 ## Pro koho bude livestream dostupný?
 
-**Livestream půjde vytvořit pouze pod některým z nastavených předplatných.** Nebude možné ho vytvořit jako neplacený příspěvek, proto je podmínka, aby měl tvůrce **alespoň jednoho podporovatele**. Pokud tvůrce zatím nemá žádného podporovatele, možnost vytvořit livestream se mu v nabídce zobrazí jako neaktivní.
+**Livestream půjde vytvořit pouze pod některým z nastavených předplatných.**Nebude možné ho vytvořit jako neplacený příspěvek, proto je podmínka, aby měl tvůrce **alespoň jednoho podporovatele**. Pokud tvůrce zatím nemá žádného podporovatele, možnost vytvořit livestream se mu v nabídce zobrazí jako neaktivní.
 
 ## Jak nastavit livestream
 
-V první řadě je důležité zdůraznit, že **pro vysílání livestreamu je potřeba instalovat dodatečný program** – nejpoužívanější a velmi oblíbené je např. [OBS Studio](https://obsproject.com/cs/download) (připravili jsme pro vás [návod](https://blog.forendors.cz/tipy-triky/nastaveni/obs-studio-nastaveni/) na jeho základní nastavení), ale je možné použít jakýkoli jiný software, který podporuje RTMP.
+V první řadě je důležité zdůraznit, že **pro vysílání livestreamu je potřeba instalovat dodatečný program**– nejpoužívanější a velmi oblíbené je např. [OBS Studio](https://obsproject.com/cs/download) (připravili jsme pro vás [návod](https://blog.forendors.cz/tipy-triky/nastaveni/obs-studio-nastaveni/) na jeho základní nastavení), ale je možné použít jakýkoli jiný software, který podporuje RTMP.
 
 **Pokud budete mít technický problém přímo související s daným programem, je potřeba se obrátit na jejich technickou podporu. **I když bychom vám za Forendors rádi pomohli, pravděpodobně to nebude v našich silách.
 
@@ -46,11 +46,11 @@ K livestreamovému příspěvku můžete přidávat úvodní text, náhledový o
 
 Jaký je rozdíl mezi plánovaným časem začátku a naplánovaným zveřejněním?
 
-***Plánovaný čas začátku*** = čas, kdy plánujete vysílat
+**Plánovaný čas začátku**= čas, kdy plánujete vysílat
 
-***Naplánovat zveřejnění*** = čas, kdy se příspěvek zobrazí na Forendors a uživatelům o něm přijde notifikace
+**Naplánovat zveřejnění**= čas, kdy se příspěvek zobrazí na Forendors a uživatelům o něm přijde notifikace
 
-U každého livestreamového příspěvku **můžete nastavit i připomenutí,** které se odešle vašim podporovatelům před samotným livestreamem. ***Například:**** Pokud budete zveřejňovat livestreamový příspěvek na začátku měsíce, ale samotný livestream plánujete až ke konci měsíce, můžete nastavit odeslání připomenutí uživatelům  před začátkem vysílání, nejvýše však 48 hodin.*
+U každého livestreamového příspěvku **můžete nastavit i připomenutí,**které se odešle vašim podporovatelům před samotným livestreamem. **Například:** Pokud budete zveřejňovat livestreamový příspěvek na začátku měsíce, ale samotný livestream plánujete až ke konci měsíce, můžete nastavit odeslání připomenutí uživatelům  před začátkem vysílání, nejvýše však 48 hodin.*
 
 ![Při vytváření livestreamového příspěvku můžete nastavit i připomenutí, které přispěvatelům přijde před začátkem vysílání.](https://blog.pickey.cz/wp-content/uploads/2022/01/Screenshot-2022-01-22-at-15.05.53-300x203.png)
 
@@ -64,19 +64,19 @@ Jakmile je příspěvek zveřejněný/naplánovaný ke zveřejnění, zobrazí s
 
 Nezapomeňte, že **pro každý livestreamový příspěvek je nutné tento krok zopakovat a údaje aktualizovat**.
 
-***Tip Forendors: ****Doporučujeme údaje do programu nastavit v dostatečném časovém předstihu před začátkem livestreamu. Vyhnete se pak stresu z nastavování programu v momentě, kdy má livestream začít.*
+**Tip Forendors: **Doporučujeme údaje do programu nastavit v dostatečném časovém předstihu před začátkem livestreamu. Vyhnete se pak stresu z nastavování programu v momentě, kdy má livestream začít.*
 
 ## Spuštění a průběh livestreamu
 
-Samotný **livestream spustíte přímo ve streamovacím programu** (podívejte se na podrobnější [návod OBS Studia](https://blog.forendors.cz/tipy-triky/nastaveni/obs-studio-nastaveni/)). Jakmile máte streamovací program propojený s Forendors, přenos může začít kdykoli (i mimo čas nastavený v příspěvku), jakmile vysílání v programu zapnete. Při začátku vysílání (nebo také po plánovaném začátku) se **po pravé straně zobrazí chatovací okno,** přes které budete moci s podporovateli komunikovat.
+Samotný **livestream spustíte přímo ve streamovacím programu**(podívejte se na podrobnější [návod OBS Studia](https://blog.forendors.cz/tipy-triky/nastaveni/obs-studio-nastaveni/)). Jakmile máte streamovací program propojený s Forendors, přenos může začít kdykoli (i mimo čas nastavený v příspěvku), jakmile vysílání v programu zapnete. Při začátku vysílání (nebo také po plánovaném začátku) se **po pravé straně zobrazí chatovací okno,**přes které budete moci s podporovateli komunikovat.
 
-**Veškeré ovládání** (nahrávání, pozastavení, sdílení obrazovky atd.) probíhá **přímo přes ovládací panel streamovacího programu**, nikoliv přes Forendors. Doporučujeme tedy prostudovat si návod vašeho programu dostatečně dopředu před samotným livestreamem, protože jak se říká „štěstí přeje připraveným“ a pak vás jen tak něco v přímém přenosu nezaskočí. 
+**Veškeré ovládání**(nahrávání, pozastavení, sdílení obrazovky atd.) probíhá **přímo přes ovládací panel streamovacího programu**, nikoliv přes Forendors. Doporučujeme tedy prostudovat si návod vašeho programu dostatečně dopředu před samotným livestreamem, protože jak se říká „štěstí přeje připraveným“ a pak vás jen tak něco v přímém přenosu nezaskočí. 
 
-Jakmile máte livestream spuštěný, přispěvatelům se v příspěvku zobrazí ve video/audio okně šipka ke spuštění. Zpoždění streamu je kolem 20 vteřin. Samotné vysílání může trvat nepřetržitě až 4 hodiny, po kterých se livestream automaticky vypne. **Během livestreamu uvidíte i počet lidí, který livestream sledují.** Počet sledujících se počítá podle uživatelů připojených k chatu, započítává se tedy do něj i sám tvůrce.
+Jakmile máte livestream spuštěný, přispěvatelům se v příspěvku zobrazí ve video/audio okně šipka ke spuštění. Zpoždění streamu je kolem 20 vteřin. Samotné vysílání může trvat nepřetržitě až 4 hodiny, po kterých se livestream automaticky vypne. **Během livestreamu uvidíte i počet lidí, který livestream sledují.**Počet sledujících se počítá podle uživatelů připojených k chatu, započítává se tedy do něj i sám tvůrce.
 
 K livestreamu je možné přidávat komentáře až do začátku vysílání. Jakmile se vysílání spustí, komentáře už přidávat nelze. Ke komunikaci místo toho slouží chat. Pro tvůrce budou ale komentáře dostupné i během livestreamu a může se tedy věnovat například otázkám, které mu přispěvatelé v komentářích před zahájením vysílání poslali. 
 
-***Tip Forendors: ****Pokud plánujete dlouhý livestream, nezapomínejte na dostatečné pauzy. Čas v pauzách můžete posluchačům zpříjemnit hudbou nebo krátkým videem sdíleným ze své obrazovky. Jak na to si můžete přečíst v našem [návodu OBS Studia](https://blog.forendors.cz/tipy-triky/nastaveni/obs-studio-nastaveni/)*.
+**Tip Forendors: **Pokud plánujete dlouhý livestream, nezapomínejte na dostatečné pauzy. Čas v pauzách můžete posluchačům zpříjemnit hudbou nebo krátkým videem sdíleným ze své obrazovky. Jak na to si můžete přečíst v našem [návodu OBS Studia](https://blog.forendors.cz/tipy-triky/nastaveni/obs-studio-nastaveni/)*.
 
 ## Ukončení livestreamu
 
@@ -90,6 +90,6 @@ Po ukončení vysílání se podporovatelům znovu zobrazí možnost přidávat 
 
 Dočetli jste až sem? **Gratulujeme, teď už víte to nejdůležitější k technickému fungování livestreamu na Forendors. **Zbývá už jen vymyslet skvělý obsah, ale věříme, že to pro vás bude hračka. 
 
-Na závěr bychom jen rádi zmínili, že livestream spouštíme v **beta verzi** – sem tam se může vyskytnout nějaká muška. Budeme rádi za jakékoli vaše postřehy, připomínky nebo problémy, na které narazíte. **[Dejte nám vědět.](https://www.forendors.cz/kontakt) **
+Na závěr bychom jen rádi zmínili, že livestream spouštíme v **beta verzi**– sem tam se může vyskytnout nějaká muška. Budeme rádi za jakékoli vaše postřehy, připomínky nebo problémy, na které narazíte. **[Dejte nám vědět.](https://www.forendors.cz/kontakt) **
 
 [Tudy se jde zpět na Forendors.](https://forendors.cz/)

@@ -11,37 +11,23 @@ draft: false
 
 Určitě se vám stalo, že jste slyšeli nějakou historku a říkali jste si „to se rozhodně nemohlo stát“. Pokud posloucháte podcast [Příběh, který se opravdu stal](https://www.forendors.cz/pandikralovna), tak si tohle nejspíš říkáte hodně často. **Markéta Lukášková**, spisovatelka a autorka podcastu pro vás každý týden vyhledává kuriózní příběhy, nad kterými mnohdy zůstává rozum stát. Jednou z jejích nejposlouchanějších epizod poslední doby je [kauza Johnnyho Deppa a Amber Heard](https://www.forendors.cz/p/20b46e4f9075dcb78eec91db60a16f2c), kterou jste možná také už slyšeli (a pokud ne, tak rozhodně doporučujeme poslechnout).
 
-**Známe Tě jako spisovatelku a hlas podcastu Příběh, který se opravdu stal. Jak ses dostala tam, kde teď jsi? **
-
-Mně se v životě vyplatilo nikam se moc necpat a ty nejlepší věci ke mně přišly samy. Tím nechci říct, že jsem se nemusela snažit, ale na spoustu nabídek říkám ano, a až pak řeším, jak to provedu. Takže přišla nabídka napsat knihu a já kejvla. Jasně, pak jsem to ještě musela napsat a pak napsat ještě čtyři další, ale ten moment, kdy se vrhnete do neznáma, je to nejtěžší.
+**Známe Tě jako spisovatelku a hlas podcastu Příběh, který se opravdu stal. Jak ses dostala tam, kde teď jsi? **Mně se v životě vyplatilo nikam se moc necpat a ty nejlepší věci ke mně přišly samy. Tím nechci říct, že jsem se nemusela snažit, ale na spoustu nabídek říkám ano, a až pak řeším, jak to provedu. Takže přišla nabídka napsat knihu a já kejvla. Jasně, pak jsem to ještě musela napsat a pak napsat ještě čtyři další, ale ten moment, kdy se vrhnete do neznáma, je to nejtěžší.
 
 V covidu mě jednoho dne napadlo točit podcast, a tak jsem začala bez nějakýho očekávání, že si tím budu jednou vydělávat, a že to bude poslouchat tolik lidí. Stejně jako knihy nepíšu s tím, že se to bude hodně prodávat. Prostě dělám to, co mě baví a snažím se to dělat dobře. Haha, to zní hrozně jednoduše.
 
-**Jak dlouho už točíš Příběh, který se opravdu stal a čím to všechno odstartovalo?**
+**Jak dlouho už točíš Příběh, který se opravdu stal a čím to všechno odstartovalo?**Rok a půl. Odstartovala to nuda v covidu. Vyprávění příběhů a vyhledávání zajímavostí mě vždycky bavilo, tak jsem si řekla, že to zkusím spojit. Na podcastový scéně jsem se neorientovala a moc jsem nevěděla, jestli už někdo něco takovýho nedělá. Naštěstí ani moc ne. 
 
-Rok a půl. Odstartovala to nuda v covidu. Vyprávění příběhů a vyhledávání zajímavostí mě vždycky bavilo, tak jsem si řekla, že to zkusím spojit. Na podcastový scéně jsem se neorientovala a moc jsem nevěděla, jestli už někdo něco takovýho nedělá. Naštěstí ani moc ne. 
+**Co bylo prvním impulsem k monetizaci a kdy jsi se rozhodla, že do toho půjdeš?**Bylo to stejný jako jsem říkala na začátku. Napadlo mě to až ve chvíli, kdy mi to někdo nabídnul. Sama bych se do toho asi necpala, neměla jsem ty ambice a sebevědomí, že by mi někdo platil. Asi půlroku poté, co jsem začala točit, se mi ozvali z Herohero, ať to jdu zkusit. Když pak přišli první subscribeři, přišlo mi úplně neuvěřitelný, že se to děje. 
 
-**Co bylo prvním impulsem k monetizaci a kdy jsi se rozhodla, že do toho půjdeš?**
+**Monetizuješ na dvou platformách, jaký byl důvod vyzkoušet i Forendors, když jsi měla už vybudovanou komunitu na HeroHero? **Na Forendors jsem narazila v době, kdy Hero ne vždy dobře fungovalo, a tak mě napadlo, že by vlastně bylo dobrý lidem poskytnout možnost vybrat si ze dvou platforem podle toho, co jim víc vyhovuje. A vypadá to, že to funguje, jak jsem si představovala.
 
-Bylo to stejný jako jsem říkala na začátku. Napadlo mě to až ve chvíli, kdy mi to někdo nabídnul. Sama bych se do toho asi necpala, neměla jsem ty ambice a sebevědomí, že by mi někdo platil. Asi půlroku poté, co jsem začala točit, se mi ozvali z Herohero, ať to jdu zkusit. Když pak přišli první subscribeři, přišlo mi úplně neuvěřitelný, že se to děje. 
-
-**Monetizuješ na dvou platformách, jaký byl důvod vyzkoušet i Forendors, když jsi měla už vybudovanou komunitu na HeroHero? **
-
-Na Forendors jsem narazila v době, kdy Hero ne vždy dobře fungovalo, a tak mě napadlo, že by vlastně bylo dobrý lidem poskytnout možnost vybrat si ze dvou platforem podle toho, co jim víc vyhovuje. A vypadá to, že to funguje, jak jsem si představovala.
-
-**Dokázala bys zkušenosti z obou platforem porovnat? Máš pocit, že to komunitu spíš „rozdělilo“, nebo fungování na obou platformách nemá na tvou komunitu vliv? **
-
-Nemyslím, že je to rozdělilo, spíš jsem jen vyšla vstříc požadavkům a každej si našel to, co je pro něj příjemnější. Nějaký lidi přešli z Hero na Forendors většina jich zůstala a nějaký lidi Forendors přimělo předplatný zkusit poprvé. Hero je takový minimalističtější, pro někoho je to ideální a easy a přehledný, pak jsou zas lidi, co potřebujou víc funkcí a víc „facebookovej” vzhled a těm zas víc vyhovuje Forendors. Někdo rád platí v eurech, někdo v korunách, mně přijde fajn, že se to dá takhle rozdělit, pro mě jako pro tvůrce není tak náročný každou epizodu nahrát na obě platformy. Líbí se mi, že na Forendors existuje možnost nákupu jednoho příspěvku, nebo jednorázovej donate, taky to, že k příspěvkům můžu nahrávat obrázky, je to pro mě víc user friendly.
+**Dokázala bys zkušenosti z obou platforem porovnat? Máš pocit, že to komunitu spíš „rozdělilo“, nebo fungování na obou platformách nemá na tvou komunitu vliv? **Nemyslím, že je to rozdělilo, spíš jsem jen vyšla vstříc požadavkům a každej si našel to, co je pro něj příjemnější. Nějaký lidi přešli z Hero na Forendors většina jich zůstala a nějaký lidi Forendors přimělo předplatný zkusit poprvé. Hero je takový minimalističtější, pro někoho je to ideální a easy a přehledný, pak jsou zas lidi, co potřebujou víc funkcí a víc „facebookovej” vzhled a těm zas víc vyhovuje Forendors. Někdo rád platí v eurech, někdo v korunách, mně přijde fajn, že se to dá takhle rozdělit, pro mě jako pro tvůrce není tak náročný každou epizodu nahrát na obě platformy. Líbí se mi, že na Forendors existuje možnost nákupu jednoho příspěvku, nebo jednorázovej donate, taky to, že k příspěvkům můžu nahrávat obrázky, je to pro mě víc user friendly.
 
 ![](https://blog.pickey.cz/wp-content/uploads/2022/05/05289C2C-8CF6-492C-AFB8-28F9824D3113.png)
 
-**Jakým způsobem své bonusové epizody propaguješ? Jak dáváš posluchačům vědět, kde je najdou a že vyšly nové díly?**
+**Jakým způsobem své bonusové epizody propaguješ? Jak dáváš posluchačům vědět, kde je najdou a že vyšly nové díly?**Nejvíc určitě na [Instagramu](http://www.instagram.com/podcastpribehy),kde se snažím dávat upozornění na každou novou epizodu, občas to sdílím i na svůj [Instagram](http://www.instagram.com/pandikralovna), mám to taky propojený s FB. Ráda bych víc rozjela takovou tu linku: sdílím zajímavosti co souvisí s obsahem epizod, ale potřebovala bych nějakýho kouče time managementu 😁 Muj kluk mě pořád tlačí, abych do klasických epizod dávala upoutávky na bonusy, což je věc, která opravdu zabírá, ale já jsem děsně líná 😁
 
-Nejvíc určitě na [Instagramu](http://www.instagram.com/podcastpribehy),kde se snažím dávat upozornění na každou novou epizodu, občas to sdílím i na svůj [Instagram](http://www.instagram.com/pandikralovna), mám to taky propojený s FB. Ráda bych víc rozjela takovou tu linku: sdílím zajímavosti co souvisí s obsahem epizod, ale potřebovala bych nějakýho kouče time managementu 😁 Muj kluk mě pořád tlačí, abych do klasických epizod dávala upoutávky na bonusy, což je věc, která opravdu zabírá, ale já jsem děsně líná 😁
-
-**Co bys poradila podcasterům, kteří přemýšlejí nad monetizací?** 
-
-Netlačte to na sílu jen pro prachy. Nenatáčejte něco jen proto, abyste na tom vydělali. Je to totiž poznat a lidi už maj dneska na výběr fakt hodně velkou škálu podcastů, který podpořit. Zkuste vymyslet něco, co je vaše, unikátní, nesnažte se nikoho kopírovat.
+**Co bys poradila podcasterům, kteří přemýšlejí nad monetizací?**Netlačte to na sílu jen pro prachy. Nenatáčejte něco jen proto, abyste na tom vydělali. Je to totiž poznat a lidi už maj dneska na výběr fakt hodně velkou škálu podcastů, který podpořit. Zkuste vymyslet něco, co je vaše, unikátní, nesnažte se nikoho kopírovat.
 
 **Co chystáš do budoucna? **
 
