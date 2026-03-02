@@ -1,6 +1,7 @@
 ---
 import { getCategoryInfo } from '../lib/categories';
 import { formatDate } from '../lib/dates';
+import CategoryIcon from './CategoryIcon.astro';
 
 interface Props {
   slug: string;
@@ -31,7 +32,7 @@ const bg = gradients[category] ?? gradients.ostatni;
     {image ? (
       <img src={image} alt={title}>
     ) : (
-      <span>[ Obrázek ]</span>
+      <CategoryIcon category={category} size={48} />
     )}
   </div>
   <div class="article-body">

@@ -1,6 +1,7 @@
 ---
 import { getCategoryInfo } from '../lib/categories';
 import { formatDate } from '../lib/dates';
+import CategoryIcon from './CategoryIcon.astro';
 
 interface Props {
   slug: string;
@@ -19,7 +20,7 @@ const cat = getCategoryInfo(category);
     {image ? (
       <img src={image} alt={title}>
     ) : (
-      <span>[ Obrázek článku ]</span>
+      <CategoryIcon category={category} size={72} />
     )}
   </div>
   <div class="featured-body">
