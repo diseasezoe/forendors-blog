@@ -2,7 +2,7 @@
 title: "Jak označit spolupráci"
 excerpt: "Pokud spolupracujete s nějakou společností, která váš obsah sponzoruje a vy tuto společnost v příspěvku zmiňujete, jedná se ze zákona o placenou spolupráci. Ta musí být vždy náležitě označená."
 date: 2021-10-24
-category: finance
+category: nastaveni
 tags: []
 draft: false
 ---

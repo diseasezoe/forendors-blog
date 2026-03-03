@@ -28,11 +28,11 @@ const gradients: Record<string, string> = {
 const bg = gradients[category] ?? gradients.ostatni;
 ---
 <a class="article-card" href={`/${slug}`}>
-  <div class="article-thumb" style={image ? '' : `background: ${bg}`}>
+  <div class={`article-thumb ${image ? '' : 'no-image'}`} style={image ? '' : `background: ${bg}`}>
     {image ? (
       <img src={image} alt={title}>
     ) : (
-      <CategoryIcon category={category} size={48} />
+      <CategoryIcon category={category} size={32} />
     )}
   </div>
   <div class="article-body">

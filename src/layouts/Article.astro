@@ -33,9 +33,43 @@ const cat = getCategoryInfo(category);
       </div>
     )}
 
-    <article class="prose">
+    <article class="prose" id="article-prose">
       <slot />
     </article>
+
+    <div id="lightbox" class="lightbox" onclick="this.classList.remove('active')">
+      <img id="lightbox-img" src="" alt="">
+    </div>
+
+    <style>
+      .lightbox {
+        display: none;
+        position: fixed;
+        inset: 0;
+        z-index: 9999;
+        background: rgba(0,0,0,.85);
+        cursor: zoom-out;
+        justify-content: center;
+        align-items: center;
+      }
+      .lightbox.active { display: flex; }
+      .lightbox img {
+        max-width: 95vw;
+        max-height: 95vh;
+        object-fit: contain;
+        border-radius: 8px;
+      }
+      .prose img { cursor: zoom-in; }
+    </style>
+
+    <script is:inline>
+      document.getElementById('article-prose').addEventListener('click', function(e) {
+        if (e.target.tagName === 'IMG') {
+          document.getElementById('lightbox-img').src = e.target.src;
+          document.getElementById('lightbox').classList.add('active');
+        }
+      });
+    </script>
 
     <div style="max-width: 720px; margin: 48px auto 0; padding-top: 32px; border-top: 1.5px solid var(--border); text-align: center;">
       <a href="/" class="read-more" style="font-size: 15px;">

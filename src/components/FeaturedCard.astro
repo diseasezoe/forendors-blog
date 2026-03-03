@@ -15,16 +15,15 @@ interface Props {
 const { slug, title, excerpt, date, category, image } = Astro.props;
 const cat = getCategoryInfo(category);
 ---
-<a class="featured" href={`/${slug}`} style="text-decoration:none; color:inherit;">
-  <div class="featured-img" style={image ? '' : undefined}>
-    {image ? (
+<a class={`featured ${image ? '' : 'has-no-image'}`} href={`/${slug}`} style="text-decoration:none; color:inherit;">
+  {image && (
+    <div class="featured-img">
       <img src={image} alt={title}>
-    ) : (
-      <CategoryIcon category={category} size={72} />
-    )}
-  </div>
+    </div>
+  )}
   <div class="featured-body">
     <div class="featured-meta">
+      {!image && <CategoryIcon category={category} size={20} />}
       <span class="featured-cat">{cat.label}</span>
       <span class="featured-date">{formatDate(date)}</span>
     </div>

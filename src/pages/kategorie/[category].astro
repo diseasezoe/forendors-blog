@@ -29,7 +29,9 @@ const regularPosts = allPosts.filter(p => p.data.category !== 'rozhovor');
   <div class="content">
     <CategoryPills active={category} />
 
-    <ArticleGrid posts={regularPosts} />
+    {category !== 'rozhovor' && (
+      <ArticleGrid posts={regularPosts} />
+    )}
 
     {category === 'rozhovor' && (
       <InterviewList interviews={interviews} />

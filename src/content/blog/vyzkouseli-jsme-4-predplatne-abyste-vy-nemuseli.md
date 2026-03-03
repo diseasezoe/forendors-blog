@@ -4,7 +4,7 @@ excerpt: "Nejsme nejlevnější, ale jsme nejférovější, nic neskrýváme, ne
 date: 2021-11-01
 category: finance
 tags: []
-draft: false
+draft: true
 ---
 
 Nejsme nejlevnější, ale jsme nejférovější, nic neskrýváme, nemáme žádná skrytá procenta ani poplatky za platbu. Ani se vám u nás neztratí peníze při převodech do jiné měny.

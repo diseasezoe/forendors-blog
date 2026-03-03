@@ -4,8 +4,13 @@
   </div>
   <h2>Nové články do schránky</h2>
   <p>Přihlaste se k odběru a nepropásněte tipy, rozhovory a novinky ze světa tvorby.</p>
-  <div class="newsletter-form">
-    <input type="email" placeholder="vas@email.cz">
-    <button type="button">Odebírat</button>
-  </div>
+  <div style="display: block; visibility:none;" class="qndTrigger" data-key="52e81e94eff9ccad5d1c79195dcffcb8" data-form-html-class="" data-static="true">&nbsp;</div>
 </div>
+<script is:inline type="text/javascript" src="https://webform.onquanda.com/static/js/webform/embedded.min.js"></script>
+<script is:inline>
+  var _qndPlaceholder = setInterval(function() {
+    var el = document.querySelector('.qndTrigger input');
+    if (el) { el.placeholder = 'Zadejte svůj e-mail'; clearInterval(_qndPlaceholder); }
+  }, 300);
+  setTimeout(function() { clearInterval(_qndPlaceholder); }, 10000);
+</script>
