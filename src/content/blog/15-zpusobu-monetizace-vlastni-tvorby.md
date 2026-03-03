@@ -1,7 +1,7 @@
 ---
 title: "15 způsobů monetizace vlastní tvorby"
 excerpt: "Jestli jste zauvažovali nad monetizací na Forendors, ale pak tuhle myšlenku hodili za hlavu, protože: nevíte, co za obsah byste měli za předplatné tvořit,nejste si jistí, jestli tvorba placeného obsahu nezabere až příliš času,máte pocit, že vaše tvor"
-date: 2023-09-22
+date: 2026-01-13
 category: tipy
 tags: []
 draft: false

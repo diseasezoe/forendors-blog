@@ -1,7 +1,7 @@
 ---
 title: "Livestream na Forendors - rozšířené FAQ"
 excerpt: "Aby vám livestream fungoval přesně tak, jak si přejete, je potřeba udělat několik kroků. Tenhle článek vás jimi provede."
-date: 2022-01-23
+date: 2025-10-28
 category: tipy
 tags: []
 draft: false

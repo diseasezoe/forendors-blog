@@ -1,7 +1,7 @@
 ---
 title: "Plné verze podcastů k poslechu i na Spotify"
 excerpt: "Na našich tvůrcích nám opravdu záleží a neustále se snažíme vymýšlet způsoby, které jim zase o krůček usnadní jejich tvorbu i budování komunity."
-date: 2024-06-04
+date: 2026-01-27
 category: nastaveni
 tags: []
 draft: false

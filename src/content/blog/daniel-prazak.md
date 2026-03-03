@@ -1,7 +1,7 @@
 ---
 title: "Daniel Pražák: Na fakultě jsem několikrát potkal lidi, kteří mi řekli, že díky Hovorům z kabinetu začali učit"
 excerpt: "Často slýcháme, že naše školství je v hrozném stavu, učitelé vyhořelí a děti se nechtějí učit."
-date: 2022-08-29
+date: 2025-12-09
 category: rozhovor
 tags: []
 interviewSubject: "Daniel Pražák"

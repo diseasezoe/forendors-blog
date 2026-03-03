@@ -1,7 +1,7 @@
 ---
 title: "Brain We Are: Naše podcasty si lidi pustili už 1,6 milionkrát"
 excerpt: "Už je to u nás taková tradice, že vám jednou za čas přineseme rozhovor s některým z našich tvůrců."
-date: 2021-11-09
+date: 2025-09-22
 category: rozhovor
 tags: []
 interviewSubject: "Brain We Are"

@@ -1,7 +1,7 @@
 ---
 title: "Tři klíče k úspěchu"
 excerpt: "Forendors je tu s vámi už nějaký ten pátek a my máme možnost sledovat úspěchy našich tvůrců."
-date: 2021-12-09
+date: 2025-10-13
 category: tipy
 tags: []
 draft: false

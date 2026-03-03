@@ -1,7 +1,7 @@
 ---
 title: "Od nápadu k mikrofonu: Jak nahrát vlastní podcast"
 excerpt: "Podcasty. V posledních letech se s nimi roztrhl pytel."
-date: 2025-08-10
+date: 2026-02-10
 category: tipy
 tags: []
 featured: true
@@ -10,7 +10,9 @@ draft: false
 
 **Podcasty.** V posledních letech se s nimi roztrhl pytel. Mluvit do mikrofonu a sdílet svůj hlas, vášeň nebo odbornost s posluchači po celém světě nikdy nebylo snazší. Ať už sníte o rozhovorech s inspirativními osobnostmi, chcete vzdělávat, bavit, nebo jen sdílet své myšlenky, **podcast je ideální médium**, které vám to umožní. A my vám ukážeme, jak na to.
 
-Doba, kdy jste na realizaci vlastního podcastu potřebovali drahé vybavení nebo technické znalosti je pryč. **Stačí vám jen dobrý nápad a zbytek už je hračka!** ## Než půjdete nahrávat - o čem to bude?
+Doba, kdy jste na realizaci vlastního podcastu potřebovali drahé vybavení nebo technické znalosti je pryč. **Stačí vám jen dobrý nápad a zbytek už je hračka!**
+
+## Než půjdete nahrávat: o čem to bude?
 
 Ještě než se pustíte do samotného nahrávání, je potřeba si ujasnit o čem podcast bude, kdo je jeho cílovou skupinou nebo jak by měl vypadat. Určitě si nezapomeňte položit následující otázky.
 

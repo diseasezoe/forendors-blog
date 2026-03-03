@@ -1,7 +1,7 @@
 ---
 title: "7 tipů jak překonat imposter syndrom"
 excerpt: "Stává se vám, že o sobě často pochybujete? Máte pocit, že žádná vaše chyba se nepromíjí?"
-date: 2023-02-07
+date: 2025-12-30
 category: tipy
 tags: []
 draft: false

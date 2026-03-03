@@ -1,7 +1,7 @@
 ---
 title: "Jak začít na Forendors? Rady a tipy pro nové tvůrce"
 excerpt: "Co potřebujete k založení profilu, jaké máte zvolit předplatné a kolik vám zbyde „čistýho“ po odvedení daní a provize Forendors? Nezdržujte se dlouhým klikáním a hledáním odpovědí."
-date: 2022-01-01
+date: 2025-10-20
 category: finance
 tags: []
 draft: false

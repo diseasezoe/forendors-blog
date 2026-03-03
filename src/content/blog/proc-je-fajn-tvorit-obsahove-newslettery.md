@@ -1,7 +1,7 @@
 ---
 title: "Proč je fajn tvořit obsahové newslettery"
 excerpt: "Od února 2023 můžete na Forendors tvořit obsahový newsletter, k jehož odběru se můžou přihlásit i neregistrovaní uživatelé (tedy lidé, kteří možná ještě nepatří do vaší bubliny)."
-date: 2023-06-23
+date: 2026-01-06
 category: tipy
 tags: []
 draft: false

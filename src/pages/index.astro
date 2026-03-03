@@ -39,4 +39,52 @@ const regularPosts = allPosts.filter(p => !p.data.featured && p.data.category !=
 
     <NewsletterCTA />
   </div>
+
+  <script is:inline>
+    document.getElementById('searchInput').addEventListener('input', function() {
+      var q = this.value.toLowerCase().trim();
+      var featured = document.querySelector('.featured');
+      var cards = document.querySelectorAll('.article-card');
+      var interviews = document.querySelectorAll('.interview-card');
+      var interviewSection = document.querySelector('.section-header');
+      var interviewList = document.querySelector('.interview-list');
+      var noResults = document.getElementById('searchNoResults');
+      var visible = 0;
+
+      if (featured) {
+        var ft = featured.textContent.toLowerCase();
+        featured.style.display = (!q || ft.indexOf(q) !== -1) ? '' : 'none';
+        if (!q || ft.indexOf(q) !== -1) visible++;
+      }
+
+      cards.forEach(function(card) {
+        var text = card.textContent.toLowerCase();
+        var show = !q || text.indexOf(q) !== -1;
+        card.style.display = show ? '' : 'none';
+        if (show) visible++;
+      });
+
+      interviews.forEach(function(card) {
+        var text = card.textContent.toLowerCase();
+        var show = !q || text.indexOf(q) !== -1;
+        card.style.display = show ? '' : 'none';
+        if (show) visible++;
+      });
+
+      if (interviewSection && interviewList) {
+        var anyInterview = Array.from(interviews).some(function(c) { return c.style.display !== 'none'; });
+        interviewSection.style.display = anyInterview ? '' : 'none';
+        interviewList.style.display = anyInterview ? '' : 'none';
+      }
+
+      if (!noResults) {
+        noResults = document.createElement('div');
+        noResults.id = 'searchNoResults';
+        noResults.className = 'no-results';
+        noResults.innerHTML = '<h3>Nic nenalezeno</h3><p>Zkuste jiný hledaný výraz.</p>';
+        document.querySelector('.articles-grid').parentNode.insertBefore(noResults, document.querySelector('.articles-grid'));
+      }
+      noResults.style.display = (q && visible === 0) ? '' : 'none';
+    });
+  </script>
 </Base>

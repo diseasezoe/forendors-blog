@@ -1,13 +1,15 @@
 ---
 title: "Trh s placeným obsahem roste! A podcasty vedou"
 excerpt: "Ve Forendors dlouhodobě věříme, že Češi jsou ochotni platit za kvalitní obsah a data za rok 2024 nám dávají za pravdu víc než kdy dřív."
-date: 2025-02-19
+date: 2026-02-03
 category: finance
 tags: []
 draft: false
 ---
 
-Ve Forendors dlouhodobě věříme, že Češi jsou ochotni platit za kvalitní obsah a data za rok 2024 nám dávají za pravdu víc než kdy dřív. Trh s placeným obsahem nejen roste, ale také se vyvíjí novými směry a ukazuje, že **kvalitní tvorba má v České republice své pevné místo.** ## Jak se konzumace obsahu vyvíjí?
+Ve Forendors dlouhodobě věříme, že Češi jsou ochotni platit za kvalitní obsah a data za rok 2024 nám dávají za pravdu víc než kdy dřív. Trh s placeným obsahem nejen roste, ale také se vyvíjí novými směry a ukazuje, že **kvalitní tvorba má v České republice své pevné místo.**
+
+## Jak se konzumace obsahu vyvíjí?
 
 Trh s placeným obsahem v Česku **je na vzestupu**, a to ve všech ohledech – roste nejen průměrná utracená částka nebo počet předplácených tvůrců, ale i **doba, po kterou si lidé tvůrce předplácí** – ta se vyšplhala až na **362 dní, tedy skoro celý rok!** Je tedy jasné, že předplatitelé jsou svým oblíbeným tvůrcům opravdu věrní.
 

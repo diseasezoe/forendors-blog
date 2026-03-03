@@ -1,7 +1,7 @@
 ---
 title: "Michelle Losekoot: Věřím, že když něco děláš nejlíp, jak umíš, přinese to výsledky"
 excerpt: "Michelle Losekoot je žena, kterou pravděpodobně není třeba moc představovat. Všichni, kdo se alespoň občas mihnou světem sociálních sítí, o ní určitě slyšeli."
-date: 2022-02-01
+date: 2025-11-11
 category: rozhovor
 tags: []
 interviewSubject: "Michelle Losekoot"

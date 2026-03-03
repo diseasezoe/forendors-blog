@@ -13,6 +13,24 @@ interface Props {
 const { title, description = 'Rady, rozhovory a novinky ze světa tvorby obsahu a jeho monetizace.', image = '/og-default.jpg', canonical } = Astro.props;
 const canonicalURL = canonical ? new URL(canonical, Astro.site) : new URL(Astro.url.pathname, Astro.site);
 const ogImage = new URL(image, Astro.site).href;
+const siteUrl = 'https://blog.forendors.cz';
+
+const organizationSchema = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Forendors",
+  "url": "https://www.forendors.cz",
+  "logo": `${siteUrl}/images/logo.svg`
+});
+
+const websiteSchema = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Forendors Blog",
+  "url": siteUrl,
+  "description": "Rady, rozhovory a novinky ze světa tvorby obsahu a jeho monetizace.",
+  "inLanguage": "cs"
+});
 ---
 <!DOCTYPE html>
 <html lang="cs">
@@ -37,6 +55,10 @@ const ogImage = new URL(image, Astro.site).href;
   <meta name="twitter:title" content={title}>
   <meta name="twitter:description" content={description}>
   <meta name="twitter:image" content={ogImage}>
+
+  <!-- Structured Data -->
+  <script type="application/ld+json" set:html={organizationSchema} />
+  <script type="application/ld+json" set:html={websiteSchema} />
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="Forendors Blog" href="/rss.xml">

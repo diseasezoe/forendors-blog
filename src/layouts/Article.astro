@@ -13,8 +13,45 @@ interface Props {
 
 const { title, excerpt, date, category, image } = Astro.props;
 const cat = getCategoryInfo(category);
+const siteUrl = 'https://blog.forendors.cz';
+const articleUrl = `${siteUrl}${Astro.url.pathname}`;
+
+const blogPostingSchema = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": title,
+  "description": excerpt,
+  "image": image ? `${siteUrl}${image}` : undefined,
+  "datePublished": date.toISOString(),
+  "author": {
+    "@type": "Organization",
+    "name": "Forendors",
+    "url": "https://www.forendors.cz"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Forendors",
+    "logo": {
+      "@type": "ImageObject",
+      "url": `${siteUrl}/images/logo.svg`
+    }
+  },
+  "mainEntityOfPage": articleUrl
+});
+
+const breadcrumbSchema = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Blog", "item": siteUrl },
+    { "@type": "ListItem", "position": 2, "name": cat.label, "item": `${siteUrl}/kategorie/${cat.slug}` },
+    { "@type": "ListItem", "position": 3, "name": title, "item": articleUrl }
+  ]
+});
 ---
 <Base title={title} description={excerpt} image={image}>
+  <script type="application/ld+json" set:html={blogPostingSchema} />
+  <script type="application/ld+json" set:html={breadcrumbSchema} />
   <div class="content" style="padding-top: 0;">
     <div class="article-header">
       <div class="breadcrumb">

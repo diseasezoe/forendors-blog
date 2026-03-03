@@ -1,7 +1,7 @@
 ---
 title: "Andrej Poleščuk: Důležité je mít o čem psát – pokud to bude pro lidi dostatečně zajímavé, budou ochotní takovou aktivitu podporovat"
 excerpt: "V souvislosti s válkou na Ukrajině můžeme sledovat nespočetné množství zdrojů."
-date: 2022-09-21
+date: 2025-12-16
 category: rozhovor
 tags: []
 interviewSubject: "Andrej Poleščuk"

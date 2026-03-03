@@ -1,10 +1,10 @@
 ---
 title: "Chcete být v obraze? Nastavte si souhlas se zasíláním novinek"
 excerpt: "Aby vám neutekly žádné novinky, které na Forendors připravujeme a spouštíme, doporučujeme si nastavit souhlas se zasíláním tipů a novinek. Rádi s vámi komunikujeme a snažíme se to dělat efektivně."
-date: 2021-10-24
+date: 2025-09-15
 category: tipy
 tags: []
-draft: false
+draft: true
 ---
 
 Aby vám neutekly žádné novinky, které na Forendors připravujeme a spouštíme, doporučujeme si nastavit souhlas se zasíláním tipů a novinek.

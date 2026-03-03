@@ -1,7 +1,7 @@
 ---
 title: "Honza Dvořáček: Základem je tvořit obsah tak, aby to bavilo jak komunitu, tak tvůrce"
 excerpt: "Milujete hory? A k tomu i rádi běháte?"
-date: 2022-10-07
+date: 2025-12-23
 category: rozhovor
 tags: []
 interviewSubject: "Honza Dvořáček"

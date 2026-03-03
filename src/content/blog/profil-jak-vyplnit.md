@@ -1,7 +1,7 @@
 ---
 title: "Profil je vaše vizitka, nepodceňujte ho"
 excerpt: "Založili jste si profil na Forendors. Umíte něco, co chcete sdílet s ostatními a víte, že to je jedinečná věc."
-date: 2021-12-06
+date: 2025-10-06
 category: nastaveni
 tags: []
 draft: false

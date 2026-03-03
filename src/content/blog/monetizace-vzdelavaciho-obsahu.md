@@ -1,7 +1,7 @@
 ---
 title: "Tipy na monetizaci vzdělávacího obsahu"
 excerpt: "Jste učitelé, lektoři, nebo umíte něco skvělého, co byste rádi předali ostatním?"
-date: 2022-03-04
+date: 2025-11-18
 category: tipy
 tags: []
 draft: false

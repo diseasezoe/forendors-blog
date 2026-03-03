@@ -1,44 +1,70 @@
 ---
-title: "Co je to Creator(s) economy?"
-excerpt: "V našich příspěvcích i článcích často zmiňujeme pojem „Creator(s) economy“ a hashtag #creatorseconomy se objevuje i pod našimi příspěvky na Instagramu."
-date: 2021-12-06
+title: "Co je creator economy a proč roste tak rychle?"
+excerpt: "Creator economy je odvětví, ve kterém jednotlivci vydělávají na vlastním obsahu. Trh v roce 2024 přesáhl 149 miliard dolarů a do roku 2030 má překonat půl bilionu. Vysvětlujeme, co za tím stojí."
+date: 2025-09-29
 category: ostatni
 tags: []
 draft: false
 ---
 
-V našich příspěvcích i článcích často zmiňujeme pojem „Creator(s) economy“ a hashtag #creatorseconomy se objevuje i pod našimi příspěvky na Instagramu. Možná jste sami pátrali po tom, co se pod tímhle pojmem skrývá, možná ještě trochu tápete. Tak si to pojďme vysvětlit.
+Creator economy označuje ekonomické odvětví, ve kterém jednotlivci nebo malé týmy vydělávají na vlastním obsahu. Podcasty, videa, newslettery, online kurzy, fotografie, hudba. Všechno, co tvůrce vytvoří a co si jeho publikum chce předplatit, koupit nebo podpořit finančním příspěvkem.
 
-## Co si pod pojmem Creator(s) economy představit?
+## Od okrajového fenoménu k miliardovému trhu
 
-Obecně se dá říct, že je to monetizace kreativního obsahu, který tvoří jednotlivci nebo menší týmy. 
+Pojem creator economy se začal používat kolem roku 2012, kdy vznikaly první platformy umožňující tvůrcům přímou monetizaci. Dlouho šlo o nišový segment. Zlom přišel v roce 2020, kdy pandemie urychlila přesun tvorby i spotřeby obsahu do online prostředí.
 
-S rozvojem sociálních sítí a internetu může v dnešní době tvořit obsah každý. Pokud je v tom člověk dobrý, dokáže si vytvořit celkem slušnou základnu fanoušků. Jestliže to posune ještě dál, správně komunikuje se svou komunitou a postupně se pro ně stává srdcovkou, dřív nebo později se začne zamýšlet nad tím, jak svůj obsah monetizovat.
+Od té doby trh roste tempem přes 20 % ročně. V roce 2024 dosáhla celková hodnota creator economy **149 miliard dolarů**. Projekce na rok 2025 počítají s **192 miliardami** a do roku 2030 má trh překonat **528 miliard dolarů**.
 
-Tvůrce si může vybrat z několika variant monetizace, jako je např. sponzorství či spolupráce s firmami, vlastní e-shop, atd. To nejlehčí, čím může začít, je přesměrování publika na některou z monetizačních platforem (třeba zrovna k nám na Forendors). Sám si může určit cenovou hladinu a s využitím své fanouškovské základny pak informaci sdílí na dalších sociálních sítích. Pokud se rozhodne pro tento krok, je dobré si připravit plán obsahu, který bude v rámci cenové hladiny s předplatiteli sdílet. Fanoušci „srdcaři“ ho ale můžou chtít podporovat třeba jen tak, aniž by za to dostali něco navíc. To samozřejmě hodně záleží na tom, jakým způsobem komunikuje se svou komunitou a co za obsah tvoří.
+![Velikost trhu creator economy 2020 az 2030](/images/articles/creator-economy-rust-2020-2030.png)
 
-## Proč je fér za dobrý obsah zaplatit?
+## Velikost trhu creator economy (2020 az 2030)
 
-Pokud jsme s něčím spokojení, proč bychom svou spokojenost nemohli také vyjádřit finanční podporou? Když se nám líbí obraz v galerii a chceme si ho pověsit doma na zeď, automaticky počítáme s tím, že za něj musíme zaplatit. Jsme zvyklí platit za jídlo v restauraci a víme, že v ceně se odráží cena surovin, čas na přípravu i práce kuchaře. Přijde nám to fér a když jsme spokojeni i s obsluhou, přihodíme jim nějakou tu korunu navíc. 
+| Rok | Velikost trhu (mld. USD) | Zdroj |
+|-----|--------------------------|-------|
+| 2020 | ~20 | odhady z VC a platform |
+| 2021 | ~104 | Goldman Sachs |
+| 2022 | ~127 | Goldman Sachs |
+| 2023 | 128 | DemandSage |
+| 2024 | 149 | Market.us |
+| 2025 | 192 (projekce) | DemandSage |
+| 2026 | 235 (projekce) | DemandSage |
+| 2027 | 287 (projekce) | DemandSage |
+| 2028 | 352 (projekce) | DemandSage |
+| 2029 | 431 (projekce) | DemandSage |
+| 2030 | 528 (projekce) | DemandSage |
 
-S internetovým obsahem by to mělo platit stejně. Úspěšný tvůrce poskytuje nějakou přidanou hodnotu, ať už je to třeba zajímavý článek, sdílení know-how nebo krásná fotka, která nám udělá radost. Sám do toho investuje spoustu času, kreativity a ve spoustě případů také vlastních financí. Myšlenka, že by všechno mělo být zadarmo, by měla už být dávno zapomenutá. Za dobré věci je fér zaplatit a to hned z několika důvodů:
+Prudký skok mezi roky 2020 a 2021 odpovídá pandemickému období, kdy se tvorba obsahu stala pro mnoho lidí hlavním zdrojem příjmu. Růst po roce 2022 je stabilnější, ale stále výrazně převyšuje většinu digitálních odvětví.
 
-- Podpora – pomůžete tvůrci v další tvorbě a umožníte mu se rozvíjet, zkoušet nové věci, které s vámi bude sdílet.
-- Zpětná vazba – tvůrce dostane jasný signál, že se vám jeho tvorba líbí a motivuje ho to do další činnosti.
-- Ocenění – dáte tvůrci najevo, že si jeho práce ceníte a chcete mu poděkovat za energii a čas, který do toho vložil.
+## Proč creator economy roste
 
-## Čísla mluví jasně
+**Změna chování spotřebitelů.** Lidé si stále častěji předplácí konkrétní tvůrce místo velkých mediálních domů. Osobní vztah k tvůrci buduje loajalitu. Podle dat z [Forendors](/cesi-predplacejici-obsah-vice-utraci) zůstává průměrný předplatitel u jednoho tvůrce přes rok.
 
-Ačkoli pojem „Creator(s) economy“ vznikl teprve před deseti lety, čísla mluví jasně – monetizace kreativního obsahu je na vzestupu. Od roku 2012, kdy se poprvé začalo mluvit o creator(s) economy, se tenhle roční příjem z této oblasti pomalu navyšoval. Velký skok zaznamenaly statistiky mezi rokem 2019 a 2020, kdy příjem v roce 2020 byl téměř dvojnásobný, než v roce 2019. Asi nikoho nepřekvapí, že situace s Covid-19 rozvoji dost pomohla, protože pro některé tvůrce se monetizace online obsahu stala jediným příjmem. Nejnovější statistiky ale ukazují, že jsme teprve na začátku a můžeme očekávat velké věci.
+**Dostupnost nástrojů.** Nahrát podcast, publikovat newsletter nebo prodávat online kurz dnes zvládne každý bez technických znalostí. Platformy jako Forendors, Patreon nebo Substack odstraňují bariéry vstupu.
 
-V České republice jsme s rozvojem creator(s) economy trochu pozadu oproti západním zemím, ale už i v našich končinách se tahle myšlenka celkem rychle usadila a začíná se rozrůstat. I to je jeden z důvodů, proč Forendors vzniklo – aby podpořilo české tvůrce v jejich činnosti a usnadnilo jim monetizaci jejich obsahu.
+**AI zrychluje tvorbu.** Umělá inteligence pomáhá tvůrcům s researcem, editací i propagací. Jeden člověk dnes zvládne to, na co dřív potřeboval celý tým. Více v článku [Jak AI pomáhá tvůrcům](/jak-ai-pomaha-tvurcum).
 
-![Světový vývoj creators economy](/images/articles/wp-202112-image001-1024x292.jpg)
+**Diverzifikace příjmů.** Tvůrci už nespoléhají jen na reklamu. Kombinují předplatné, jednorázové produkty, sponzoringy a přímé příspěvky od fanoušků. Přehled modelů najdete v článku [5 modelů monetizace](/5-modelu-monetizace-ktery-sedi-tobe).
 
-## Chcete to zkusit?
+## Proč je fér za obsah platit
 
-Máte co nabídnout a chtěli byste zkusit monetizovat to, co vás baví? [Zaregistrujte](https://www.forendors.cz/registrace) se na Forendors a buďte mezi průkopníky Creator(s) economy v České republice.
+Když se nám líbí obraz v galerii, počítáme s tím, že za něj zaplatíme. V restauraci platíme za suroviny, čas na přípravu i práci kuchaře. S online obsahem by to mělo fungovat stejně.
 
-Máte dotaz, nevíte jak začít, nebo si nejste jisti, jestli je váš obsah vhodný k monetizaci? Napište nám na [ahoj@forendors.cz](mailto:ahoj@forendors.cz) a my to s vámi rádi probereme.
+Tvůrce do své práce investuje čas, kreativitu a často i vlastní peníze. Finanční podpora mu umožňuje:
 
-[Tudy se jde zpět na Forendors.](https://forendors.cz/)
+- pokračovat v tvorbě a zlepšovat její kvalitu
+- investovat do lepšího vybavení a nástrojů
+- věnovat se tvorbě naplno místo hledání jiného příjmu
+
+Myšlenka, že online obsah musí být vždy zdarma, je zastaralá. Za kvalitní práci je fér zaplatit.
+
+## Creator economy v Česku
+
+V Česku je creator economy ve srovnání se západní Evropou a USA stále v ranější fázi. Ale roste. Počet tvůrců monetizujících obsah přes platformy se každoročně zvyšuje a ochota českých uživatelů platit za obsah stoupá. Průměrná měsíční útrata předplatitelů na Forendors v roce 2025 dosáhla [177 korun](/cesi-predplacejici-obsah-vice-utraci).
+
+## Začněte tvořit na Forendors
+
+[Forendors](https://www.forendors.cz) je česká platforma pro monetizaci obsahu. Předplatné, jednorázové produkty, příspěvky od fanoušků. Registrace je zdarma. [Vytvořte si profil](https://www.forendors.cz) a staňte se součástí creator economy v Česku.
+
+---
+
+*Zdroje dat: [Goldman Sachs Creator Economy Report](https://www.goldmansachs.com/), [DemandSage Creator Economy Statistics 2026](https://www.demandsage.com/creator-economy-statistics/), [Market.us Creator Economy Market](https://market.us/report/creator-economy-market/), [Forendors interní data](/cesi-predplacejici-obsah-vice-utraci)*

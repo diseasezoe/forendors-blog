@@ -1,7 +1,7 @@
 ---
 title: "Platit za obsah je normální. Máme na to data"
 excerpt: "Když jsme naši platformu v roce 2021 spouštěli, slýchávali jsme od některých lidí, že Češi nikdy nebudou chtít za obsah platit. Po téměř třech letech na trhu se můžeme podívat, jestli měli pravdu."
-date: 2024-04-11
+date: 2026-01-20
 category: finance
 tags: []
 draft: false

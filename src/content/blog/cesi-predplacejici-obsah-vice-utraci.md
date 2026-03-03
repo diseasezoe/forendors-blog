@@ -1,7 +1,7 @@
 ---
 title: "Češi předplácející obsah více utrácí a jsou věrnější než kdy dřív"
 excerpt: "Průměrná měsíční útrata za předplacený obsah vzrostla v roce 2025 na 177 korun a průměrná délka předplatného překonala jeden rok. Podívejte se na čerstvá čísla z platformy Forendors."
-date: 2026-03-03
+date: 2026-02-24
 category: finance
 tags: []
 draft: false

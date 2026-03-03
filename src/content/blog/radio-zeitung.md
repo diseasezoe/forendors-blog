@@ -1,7 +1,7 @@
 ---
 title: "Radio Zeitung: Jaké to je přecházet z jiné platformy na Forendors"
 excerpt: "Jestliže se na Forendors už nějakou dobu pohybujete a nebo nás sledujete na sociálních sítích, určitě už jste zaznamenali i jméno Starý Mrzout a jeho Radio ZEITUNG."
-date: 2021-10-24
+date: 2025-09-08
 category: rozhovor
 tags: []
 interviewSubject: "Radio Zeitung"

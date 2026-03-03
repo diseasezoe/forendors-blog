@@ -1,7 +1,7 @@
 ---
 title: "OBS studio - jak program co nejlépe nastavit pro Forendors livestream"
 excerpt: "OBS Studio je nejpoužívanější a velmi oblíbený streamovací program. Pokud jste se rozhodli ho pro váš Forendors livestream používat, připravili jsme pro vás návod na jeho základní nastavení."
-date: 2022-01-23
+date: 2025-11-04
 category: nastaveni
 tags: []
 draft: false

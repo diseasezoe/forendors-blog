@@ -1,7 +1,7 @@
 ---
 title: "Markéta Lukášková: Zkuste vymyslet něco, co je vaše, unikátní, nesnažte se nikoho kopírovat"
 excerpt: "Určitě se vám stalo, že jste slyšeli nějakou historku a říkali jste si „to se rozhodně nemohlo stát“. Pokud posloucháte podcast Příběh, který se opravdu stal, tak si tohle nejspíš říkáte hodně často."
-date: 2022-05-30
+date: 2025-12-02
 category: rozhovor
 tags: []
 interviewSubject: "Markéta Lukášková"

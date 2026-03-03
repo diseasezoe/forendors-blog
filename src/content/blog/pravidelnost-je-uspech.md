@@ -1,7 +1,7 @@
 ---
 title: "Pravidelnost je úspěch"
 excerpt: "Jste tvůrci, máte vyladěný obsah, ale podporovatelé nerostou? Jedním z důvodů může být vaše (ne)pravidelnost."
-date: 2022-04-17
+date: 2025-11-25
 category: tipy
 tags: []
 draft: false
