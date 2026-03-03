@@ -5,7 +5,6 @@
   <h2>Nové články do schránky</h2>
   <p>Přihlaste se k odběru a nepropásněte tipy, rozhovory a novinky ze světa tvorby.</p>
   <div class="qndTrigger" data-key="52e81e94eff9ccad5d1c79195dcffcb8" data-form-html-class="" data-static="true">&nbsp;</div>
-  <div class="newsletter-msg" id="newsletterMsg" style="display:none;"></div>
 </div>
 <script is:inline>
   (function() {
@@ -14,54 +13,11 @@
       var s = document.createElement('script');
       s.src = 'https://webform.onquanda.com/static/js/webform/embedded.min.js';
       s.onload = function() {
-        var _qndReady = setInterval(function() {
-          var input = document.querySelector('.qndTrigger input:not([type="submit"]):not([type="hidden"])');
-          if (!input) return;
-          clearInterval(_qndReady);
-
-          input.placeholder = 'Zadejte svůj e-mail';
-          input.setAttribute('type', 'email');
-
-          var form = document.querySelector('.qndTrigger form');
-          if (form) {
-            form.addEventListener('submit', function(e) {
-              var msg = document.getElementById('newsletterMsg');
-              var val = input.value.trim();
-              if (!val || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(val)) {
-                e.preventDefault();
-                e.stopPropagation();
-                input.style.borderColor = 'var(--accent)';
-                if (msg) {
-                  msg.textContent = 'Zadejte platnou e-mailovou adresu.';
-                  msg.style.display = 'block';
-                  msg.style.color = 'var(--accent)';
-                }
-                return false;
-              }
-              input.style.borderColor = '';
-              if (msg) {
-                msg.textContent = 'Odesílám...';
-                msg.style.display = 'block';
-                msg.style.color = 'var(--text-muted)';
-              }
-            }, true);
-          }
-
-          // Watch for success (Quanda replaces form content)
-          var observer = new MutationObserver(function() {
-            var msg = document.getElementById('newsletterMsg');
-            var formStillThere = document.querySelector('.qndTrigger form');
-            if (!formStillThere && msg) {
-              msg.textContent = 'Díky za přihlášení!';
-              msg.style.display = 'block';
-              msg.style.color = '#10b981';
-              observer.disconnect();
-            }
-          });
-          var trigger = document.querySelector('.qndTrigger');
-          if (trigger) observer.observe(trigger, { childList: true, subtree: true });
+        var _qndPlaceholder = setInterval(function() {
+          var el = document.querySelector('.qndTrigger input');
+          if (el) { el.placeholder = 'Zadejte svůj e-mail'; clearInterval(_qndPlaceholder); }
         }, 300);
-        setTimeout(function() { clearInterval(_qndReady); }, 10000);
+        setTimeout(function() { clearInterval(_qndPlaceholder); }, 10000);
       };
       document.body.appendChild(s);
     }
