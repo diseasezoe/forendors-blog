@@ -245,6 +245,12 @@ body {
 .newsletter h2 { font-size: 24px; font-weight: 700; margin-bottom: 6px; }
 .newsletter p { color: var(--text-muted); font-size: 15px; margin-bottom: 24px; max-width: 420px; margin-left: auto; margin-right: auto; }
 
+.newsletter-msg {
+  max-width: 420px; margin: 10px auto 0;
+  font-size: 14px; font-weight: 500; text-align: center;
+  font-family: 'DM Sans', -apple-system, sans-serif;
+}
+
 /* Quanda form overrides */
 .newsletter .qndTrigger { max-width: 420px; margin: 0 auto; }
 .newsletter .qndTrigger div[style],
@@ -265,6 +271,17 @@ body {
   max-width: 100% !important;
 }
 .newsletter .qndTrigger input:focus { border-color: var(--accent) !important; }
+.newsletter .qndTrigger input:invalid:not(:placeholder-shown):not(:focus) {
+  border-color: var(--accent) !important;
+}
+.newsletter .qndTrigger .error,
+.newsletter .qndTrigger .qnd-error,
+.newsletter .qndTrigger [class*="error"] {
+  color: var(--accent) !important; font-size: 13px !important;
+  font-family: 'DM Sans', -apple-system, sans-serif !important;
+  margin-top: 4px !important; text-align: center !important;
+}
+.newsletter .qndTrigger [title]:hover { cursor: pointer; }
 .newsletter .qndTrigger button,
 .newsletter .qndTrigger input[type="submit"] {
   width: 100% !important; padding: 14px 28px !important; border-radius: 999px !important;
