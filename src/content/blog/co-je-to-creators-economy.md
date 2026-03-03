@@ -2,7 +2,7 @@
 title: "Co je creator economy a proč roste tak rychle?"
 excerpt: "Creator economy je odvětví, ve kterém jednotlivci vydělávají na vlastním obsahu. Trh v roce 2024 přesáhl 149 miliard dolarů a do roku 2030 má překonat půl bilionu. Vysvětlujeme, co za tím stojí."
 date: 2025-09-29
-category: ostatni
+category: novinky
 tags: []
 draft: false
 ---

@@ -11,11 +11,10 @@ export const categories: Record<string, CategoryInfo> = {
   propagace: { label: 'Propagace', slug: 'propagace', tagClass: 'tag-propagace' },
   nastaveni: { label: 'Nastavení', slug: 'nastaveni', tagClass: 'tag-nastaveni' },
   rozhovor: { label: 'Rozhovory', slug: 'rozhovor', tagClass: 'tag-rozhovor' },
-  ostatni: { label: 'Od všeho něco', slug: 'ostatni', tagClass: 'tag-ostatni' },
 };
 
 export function getCategoryInfo(slug: string): CategoryInfo {
-  return categories[slug] ?? categories.ostatni;
+  return categories[slug] ?? categories.tipy;
 }
 
 export const allCategories = Object.values(categories);

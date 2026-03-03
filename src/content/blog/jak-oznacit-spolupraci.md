@@ -4,7 +4,7 @@ excerpt: "Pokud spolupracujete s nějakou společností, která váš obsah spon
 date: 2025-09-01
 category: nastaveni
 tags: []
-draft: false
+draft: true
 ---
 
 Pokud spolupracujete s nějakou společností, která váš obsah sponzoruje a vy tuto společnost v příspěvku zmiňujete, jedná se ze zákona o placenou spolupráci. Ta musí být vždy náležitě označená.

@@ -33,8 +33,6 @@ Utřídit si myšlenky ohledně obsahu a jeho nacenění vám pomůže článek 
 
 - Skvělá je u Forendors možnost jednorázového příspěvku. Lidé vám můžou zaplatit za jednotlivý text, podcast nebo video, aniž by byli vašimi podporovateli. Možnost jednorázového příspěvku mají všichni naši tvůrci nastavenou automaticky. Takže nikde nemusíte nic štelovat sami. Kde tuhle možnost najdete? Pod ikonkou s dolarem $ pod každým příspěvkem.
 
-![Takhle vypadá možnost jednorázového příspěvku](/images/articles/wp-202201-Picture1.png)
-
 - Jediné poplatky, které jdou do Forendors kasičky, jsou provize:15 % z každé pravidelné platby a
 
 - 20 % z každé jednorázové platby
@@ -47,7 +45,6 @@ Utřídit si myšlenky ohledně obsahu a jeho nacenění vám pomůže článek 
 
 **Další tipy pro vylepšení vašeho účtu**
 
-- Svůj účet můžete přidat do až 3 [kategorií](http://www.forendors.cz/kategorie), ve kterých vás vaše publikum snáze dohledá.
 - Podcasteři si mohou vygenerovat RSS feed pro poslech audionahrávek i na jiných platformách. [Co je audio RSS feed a jak ho můžete používat?](https://www.forendors.cz/faq/funkce-a-nastaveni#audio-rss)
 - Ke svým příspěvkům můžete přidávat i [dokumenty a náhledové obrázky](https://www.forendors.cz/p/b86af731dbac54b0d0ec4fd8af58a286). Maximálně 10 a v celkové velikosti do 100 Mb. Své předplatné tak můžete zpestřit pracovními listy, rozpisy tréninků, recepty nebo fotkami z dalekých cest.
 - Vyzvěte své publikum k odběru spickleneckých newsletterů – pokaždé, když nahrajete nový příspěvek, přijde jim upozornění přímo do e-mailu. [Jak newsletter nastavit?](https://www.forendors.cz/faq/funkce-a-nastaveni#upozorneni)
