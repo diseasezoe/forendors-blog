@@ -17,10 +17,10 @@ je tenhle článek přesně pro vás. Ukážeme vám, že kreativitě se meze ne
 
 V článku najdete:
 
-- [Tipy pro podcastery](#podcasteri)
-- [Tipy pro lektory](#lektori)
-- [Tipy pro umělce všeho druhu](#umelci)
-- [Funkce, které můžete k monetizaci využít](#funkce)
+- [Tipy pro podcastery](#tipy-pro-podcastery)
+- [Tipy pro lektory](#tipy-pro-lektory-učitele-a-všechny-kdo-sdílí-své-know-how)
+- [Tipy pro umělce všeho druhu](#tipy-pro-umělce-všeho-druhu)
+- [Funkce Forendors pro monetizaci](#využijte-funkce-které-forendors-umí)
 
 ## Tipy pro podcastery
 
@@ -42,7 +42,7 @@ I v případě, že netočíte podcast, máte spoustu možností k monetizaci:
 4. Doplňkové články k tématu – pokud např. publikujete obsah zdarma, případně máte offline lekce/kurzy, můžete k těmto tématům přidávat i doplňkové články pro zájemce, kteří se o tématu chtějí dozvědět víc nad rámec volně dostupného/probraného obsahu. Můžete to taky krásně zkombinovat s nějakým cvičením, které jsme zmiňovali v bodě 2.
 5. Zajímavosti – souhrn toho, co se za poslední týden/měsíc událo ve světě, ve kterém se pohybujete, je perfektní možnost, jak monetizovat to, co vás baví. Pohybujete se ve světě IT? Dejte dohromady nejnovější trendy, které světem IT prosvištěly v uplynulém týdnu. Učíte angličtinu? Odkažte na zajímavé zahraniční články z anglofonních zemí. Žijete marketingem a pohybujete se na různých konferencích? Dejte dohromady krátké video s těmi nejzajímavějšími postřehy.
 
-Pro tipy, jak využít funkce na Forendors k monetizaci vzdělávacího obsahu mrkněte i na náš starší článek [Tipy na monetizaci vzdělávacího obsahu](https://blog.forendors.cz/tipy-triky/nastaveni/monetizace-vzdelavaciho-obsahu/).
+Pro tipy, jak využít funkce na Forendors k monetizaci vzdělávacího obsahu, podívejte se na článek [Tipy na monetizaci vzdělávacího obsahu](/monetizace-vzdelavaciho-obsahu).
 
 ## Tipy pro umělce všeho druhu
 

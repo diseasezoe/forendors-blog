@@ -1,15 +1,20 @@
 ---
 import { allCategories } from '../lib/categories';
+import { getCollection } from 'astro:content';
 
 interface Props {
   active?: string;
 }
 
 const { active = 'all' } = Astro.props;
+
+const posts = await getCollection('blog', ({ data }) => !data.draft);
+const categoriesWithPosts = new Set(posts.map(p => p.data.category));
+const visibleCategories = allCategories.filter(cat => categoriesWithPosts.has(cat.slug));
 ---
 <div class="cat-pills" id="catPills">
   <a class={`cat-pill ${active === 'all' ? 'active' : ''}`} href="/">Vše</a>
-  {allCategories.map(cat => (
+  {visibleCategories.map(cat => (
     <a class={`cat-pill ${active === cat.slug ? 'active' : ''}`} href={`/kategorie/${cat.slug}`}>{cat.label}</a>
   ))}
 </div>

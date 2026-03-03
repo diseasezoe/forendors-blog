@@ -26,7 +26,7 @@ Teď už se ale pojďme podívat na jednotlivé kroky detailněji.
 
 ## Jak nastavit livestream
 
-V první řadě je důležité zdůraznit, že **pro vysílání livestreamu je potřeba instalovat dodatečný program** – nejpoužívanější a velmi oblíbené je např. [OBS Studio](https://obsproject.com/cs/download) (připravili jsme pro vás [návod](https://blog.forendors.cz/tipy-triky/nastaveni/obs-studio-nastaveni/) na jeho základní nastavení), ale je možné použít jakýkoli jiný software, který podporuje RTMP. **Pokud budete mít technický problém přímo související s daným programem, je potřeba se obrátit na jejich technickou podporu.** I když bychom vám za Forendors rádi pomohli, pravděpodobně to nebude v našich silách.
+V první řadě je důležité zdůraznit, že **pro vysílání livestreamu je potřeba instalovat dodatečný program** – nejpoužívanější a velmi oblíbené je např. [OBS Studio](https://obsproject.com/cs/download) (připravili jsme pro vás [návod](/obs-studio-nastaveni) na jeho základní nastavení), ale je možné použít jakýkoli jiný software, který podporuje RTMP. **Pokud budete mít technický problém přímo související s daným programem, je potřeba se obrátit na jejich technickou podporu.** I když bychom vám za Forendors rádi pomohli, pravděpodobně to nebude v našich silách.
 
 ## Vytvoření livestreamu
 
@@ -62,13 +62,13 @@ Nezapomeňte, že **pro každý livestreamový příspěvek je nutné tento krok
 
 ## Spuštění a průběh livestreamu
 
-Samotný **livestream spustíte přímo ve streamovacím programu** (podívejte se na podrobnější [návod OBS Studia](https://blog.forendors.cz/tipy-triky/nastaveni/obs-studio-nastaveni/)). Jakmile máte streamovací program propojený s Forendors, přenos může začít kdykoli (i mimo čas nastavený v příspěvku), jakmile vysílání v programu zapnete. Při začátku vysílání (nebo také po plánovaném začátku) se **po pravé straně zobrazí chatovací okno,** přes které budete moci s podporovateli komunikovat. **Veškeré ovládání** (nahrávání, pozastavení, sdílení obrazovky atd.) probíhá **přímo přes ovládací panel streamovacího programu**, nikoliv přes Forendors. Doporučujeme tedy prostudovat si návod vašeho programu dostatečně dopředu před samotným livestreamem, protože jak se říká „štěstí přeje připraveným“ a pak vás jen tak něco v přímém přenosu nezaskočí. 
+Samotný **livestream spustíte přímo ve streamovacím programu** (podívejte se na podrobnější [návod OBS Studia](/obs-studio-nastaveni)). Jakmile máte streamovací program propojený s Forendors, přenos může začít kdykoli (i mimo čas nastavený v příspěvku), jakmile vysílání v programu zapnete. Při začátku vysílání (nebo také po plánovaném začátku) se **po pravé straně zobrazí chatovací okno,** přes které budete moci s podporovateli komunikovat. **Veškeré ovládání** (nahrávání, pozastavení, sdílení obrazovky atd.) probíhá **přímo přes ovládací panel streamovacího programu**, nikoliv přes Forendors. Doporučujeme tedy prostudovat si návod vašeho programu dostatečně dopředu před samotným livestreamem, protože jak se říká „štěstí přeje připraveným“ a pak vás jen tak něco v přímém přenosu nezaskočí. 
 
 Jakmile máte livestream spuštěný, přispěvatelům se v příspěvku zobrazí ve video/audio okně šipka ke spuštění. Zpoždění streamu je kolem 20 vteřin. Samotné vysílání může trvat nepřetržitě až 4 hodiny, po kterých se livestream automaticky vypne. **Během livestreamu uvidíte i počet lidí, který livestream sledují.** Počet sledujících se počítá podle uživatelů připojených k chatu, započítává se tedy do něj i sám tvůrce.
 
 K livestreamu je možné přidávat komentáře až do začátku vysílání. Jakmile se vysílání spustí, komentáře už přidávat nelze. Ke komunikaci místo toho slouží chat. Pro tvůrce budou ale komentáře dostupné i během livestreamu a může se tedy věnovat například otázkám, které mu přispěvatelé v komentářích před zahájením vysílání poslali. 
 
-**Tip Forendors:** Pokud plánujete dlouhý livestream, nezapomínejte na dostatečné pauzy. Čas v pauzách můžete posluchačům zpříjemnit hudbou nebo krátkým videem sdíleným ze své obrazovky. Jak na to si můžete přečíst v našem [návodu OBS Studia](https://blog.forendors.cz/tipy-triky/nastaveni/obs-studio-nastaveni/).
+**Tip Forendors:** Pokud plánujete dlouhý livestream, nezapomínejte na dostatečné pauzy. Čas v pauzách můžete posluchačům zpříjemnit hudbou nebo krátkým videem sdíleným ze své obrazovky. Jak na to si můžete přečíst v našem [návodu OBS Studia](/obs-studio-nastaveni).
 
 ## Ukončení livestreamu
 
