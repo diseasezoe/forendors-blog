@@ -18,6 +18,71 @@
           if (el) { el.placeholder = 'Zadejte svůj e-mail'; clearInterval(_qndPlaceholder); }
         }, 300);
         setTimeout(function() { clearInterval(_qndPlaceholder); }, 10000);
+
+        // Intercept form submission to prevent page jump
+        var _qndFormWatch = setInterval(function() {
+          var form = document.querySelector('.qndTrigger form');
+          if (form) {
+            clearInterval(_qndFormWatch);
+            form.addEventListener('submit', function(e) {
+              e.preventDefault();
+              e.stopPropagation();
+
+              var input = form.querySelector('input[type="email"], input[type="text"], input:not([type="submit"]):not([type="hidden"])');
+              if (!input) return;
+
+              var email = input.value.trim();
+              var emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+              // Remove any previous custom error
+              var prevErr = form.parentElement.querySelector('.newsletter-msg');
+              if (prevErr) prevErr.remove();
+
+              if (!email || !emailRegex.test(email)) {
+                input.style.borderColor = 'var(--accent)';
+                var msg = document.createElement('div');
+                msg.className = 'newsletter-msg';
+                msg.style.color = '#e74c3c';
+                msg.textContent = 'Zadejte platnou e-mailovou adresu.';
+                form.parentElement.appendChild(msg);
+                return;
+              }
+
+              var submitBtn = form.querySelector('button, input[type="submit"]');
+              var origText = submitBtn ? (submitBtn.value || submitBtn.textContent) : '';
+              if (submitBtn) {
+                submitBtn.disabled = true;
+                if (submitBtn.tagName === 'INPUT') submitBtn.value = 'Odesílám...';
+                else submitBtn.textContent = 'Odesílám...';
+              }
+
+              var formData = new FormData(form);
+              fetch(form.action, {
+                method: form.method || 'POST',
+                body: formData
+              }).then(function() {
+                // Show success message in place of the form
+                var trigger = document.querySelector('.qndTrigger');
+                if (trigger) {
+                  trigger.innerHTML = '<div class="newsletter-success">Děkujeme za přihlášení!<span>Potvrzení najdete ve svém e-mailu.</span></div>';
+                }
+              }).catch(function() {
+                // On error, restore button and show message
+                if (submitBtn) {
+                  submitBtn.disabled = false;
+                  if (submitBtn.tagName === 'INPUT') submitBtn.value = origText;
+                  else submitBtn.textContent = origText;
+                }
+                var msg = document.createElement('div');
+                msg.className = 'newsletter-msg';
+                msg.style.color = '#e74c3c';
+                msg.textContent = 'Něco se pokazilo. Zkuste to prosím znovu.';
+                form.parentElement.appendChild(msg);
+              });
+            }, true);
+          }
+        }, 300);
+        setTimeout(function() { clearInterval(_qndFormWatch); }, 10000);
       };
       document.body.appendChild(s);
     }
