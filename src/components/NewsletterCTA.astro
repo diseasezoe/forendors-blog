@@ -4,16 +4,58 @@
   </div>
   <h2>Nové články do schránky</h2>
   <p>Přihlaste se k odběru a nepropásněte tipy, rozhovory a novinky ze světa tvorby.</p>
-  <div class="newsletter-iframe-wrap">
-    <iframe
-      src="https://webform.onquanda.com/webform/52e81e94eff9ccad5d1c79195dcffcb8/&parent_url=https://blog.forendors.cz/"
-      width="100%"
-      height="200"
-      frameborder="0"
-      scrolling="no"
-      style="border:none; max-width:420px; display:block; margin:0 auto;"
-      title="Přihlášení k odběru"
-      loading="lazy"
-    ></iframe>
-  </div>
+  <form class="newsletter-form" id="newsletterForm" novalidate>
+    <input type="email" id="newsletterEmail" placeholder="Zadejte svůj e-mail" required autocomplete="email">
+    <button type="submit">Přihlásit</button>
+  </form>
+  <div id="newsletterMsg" class="newsletter-msg" style="display:none;"></div>
 </div>
+<script is:inline>
+  (function() {
+    var form = document.getElementById('newsletterForm');
+    var input = document.getElementById('newsletterEmail');
+    var msgEl = document.getElementById('newsletterMsg');
+    var btn = form.querySelector('button');
+
+    function showMsg(text, isError) {
+      msgEl.textContent = text;
+      msgEl.style.display = 'block';
+      msgEl.style.color = isError ? '#e74c3c' : 'var(--accent)';
+    }
+
+    form.addEventListener('submit', function(e) {
+      e.preventDefault();
+      msgEl.style.display = 'none';
+
+      var email = input.value.trim();
+      if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+        input.style.borderColor = '#e74c3c';
+        showMsg('Zadejte platnou e-mailovou adresu.', true);
+        return;
+      }
+      input.style.borderColor = '';
+      btn.disabled = true;
+      btn.textContent = 'Odesílám...';
+
+      fetch('/api/subscribe', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email: email })
+      })
+        .then(function(r) { return r.json().then(function(d) { return { ok: r.ok, data: d }; }); })
+        .then(function(res) {
+          if (res.ok) {
+            form.style.display = 'none';
+            showMsg('Děkujeme za přihlášení! Potvrzení najdete ve svém e-mailu.', false);
+          } else {
+            throw new Error(res.data.error || 'failed');
+          }
+        })
+        .catch(function() {
+          btn.disabled = false;
+          btn.textContent = 'Přihlásit';
+          showMsg('Něco se pokazilo. Zkuste to prosím znovu.', true);
+        });
+    });
+  })();
+</script>
