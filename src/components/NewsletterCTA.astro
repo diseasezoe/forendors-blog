@@ -4,11 +4,14 @@
   </div>
   <h2>Nové články do schránky</h2>
   <p>Přihlaste se k odběru a nepropásněte tipy, rozhovory a novinky ze světa tvorby.</p>
-  <form class="newsletter-form" id="newsletterForm" novalidate>
-    <input type="email" id="newsletterEmail" placeholder="Zadejte svůj e-mail" required autocomplete="email">
-    <button type="submit">Přihlásit</button>
-  </form>
-  <div id="newsletterMsg" class="newsletter-msg" style="display:none;"></div>
+  <div class="newsletter-form-wrap">
+    <form class="newsletter-form" id="newsletterForm" novalidate>
+      <input type="email" id="newsletterEmail" placeholder="Zadejte svůj e-mail" required autocomplete="email">
+      <button type="submit">Přihlásit</button>
+    </form>
+    <div id="newsletterMsg" class="newsletter-msg" style="display:none;"></div>
+  </div>
+  <iframe name="newsletterTarget" id="newsletterIframe" style="display:none;" tabindex="-1"></iframe>
 </div>
 <script is:inline>
   (function() {
@@ -16,6 +19,7 @@
     var input = document.getElementById('newsletterEmail');
     var msgEl = document.getElementById('newsletterMsg');
     var btn = form.querySelector('button');
+    var iframe = document.getElementById('newsletterIframe');
     var QND_URL = 'https://webform.onquanda.com/webform/52e81e94eff9ccad5d1c79195dcffcb8/';
 
     function showMsg(text, isError) {
@@ -35,40 +39,53 @@
         return;
       }
       input.style.borderColor = '';
-
       btn.disabled = true;
       btn.textContent = 'Odesílám...';
 
-      // Fetch Quanda page to get CSRF token, then submit
-      fetch(QND_URL, { credentials: 'include' })
-        .then(function(r) { return r.text(); })
-        .then(function(html) {
-          var match = html.match(/name="csrfmiddlewaretoken"\s+value="([^"]+)"/);
-          if (!match) throw new Error('CSRF not found');
+      // Create a hidden form that submits to Quanda via iframe (bypasses CORS)
+      var hiddenForm = document.createElement('form');
+      hiddenForm.method = 'POST';
+      hiddenForm.action = QND_URL;
+      hiddenForm.target = 'newsletterTarget';
+      hiddenForm.style.display = 'none';
 
-          var fd = new FormData();
-          fd.append('csrfmiddlewaretoken', match[1]);
-          fd.append('contact-email', email);
-          fd.append('check', '');
-          fd.append('check_id', '');
-          fd.append('parent_url', window.location.href);
+      var fields = {
+        'contact-email': email,
+        'check': '',
+        'check_id': '',
+        'parent_url': window.location.href
+      };
+      for (var name in fields) {
+        var inp = document.createElement('input');
+        inp.type = 'hidden';
+        inp.name = name;
+        inp.value = fields[name];
+        hiddenForm.appendChild(inp);
+      }
 
-          return fetch(QND_URL, {
-            method: 'POST',
-            body: fd,
-            credentials: 'include'
-          });
-        })
-        .then(function(r) {
-          if (!r.ok) throw new Error('Submit failed');
+      document.body.appendChild(hiddenForm);
+
+      // Listen for iframe load (indicates form was submitted)
+      var submitted = false;
+      iframe.onload = function() {
+        if (!submitted) return;
+        // Form submitted successfully
+        form.style.display = 'none';
+        showMsg('Děkujeme za přihlášení! Potvrzení najdete ve svém e-mailu.', false);
+        document.body.removeChild(hiddenForm);
+      };
+
+      submitted = true;
+      hiddenForm.submit();
+
+      // Fallback timeout in case iframe onload doesn't fire
+      setTimeout(function() {
+        if (btn.disabled && form.style.display !== 'none') {
           form.style.display = 'none';
           showMsg('Děkujeme za přihlášení! Potvrzení najdete ve svém e-mailu.', false);
-        })
-        .catch(function() {
-          btn.disabled = false;
-          btn.textContent = 'Přihlásit';
-          showMsg('Něco se pokazilo. Zkuste to prosím znovu.', true);
-        });
+        }
+        try { document.body.removeChild(hiddenForm); } catch(e) {}
+      }, 4000);
     });
   })();
 </script>
