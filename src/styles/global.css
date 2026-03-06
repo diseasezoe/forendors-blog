@@ -261,49 +261,7 @@ body {
   color: var(--text-muted); margin-top: 6px;
 }
 
-/* Quanda form overrides */
-.newsletter .qndTrigger { max-width: 420px; margin: 0 auto; }
-.newsletter .qndTrigger div[style],
-.newsletter .qndTrigger form,
-.newsletter .qndTrigger > div { border: none !important; background: none !important; padding: 0 !important; box-shadow: none !important; border-radius: 0 !important; }
-.newsletter .qndTrigger h1,
-.newsletter .qndTrigger h2,
-.newsletter .qndTrigger h3,
-.newsletter .qndTrigger label { display: none !important; }
-.newsletter .qndTrigger input[type="email"],
-.newsletter .qndTrigger input[type="text"],
-.newsletter .qndTrigger input:not([type="submit"]):not([type="hidden"]) {
-  width: 100% !important; padding: 14px 20px !important; font-size: 15px !important;
-  font-family: 'DM Sans', -apple-system, sans-serif !important;
-  border: 1.5px solid var(--border) !important; border-radius: 999px !important;
-  background: var(--bg) !important; outline: none !important;
-  box-sizing: border-box !important; margin-bottom: 10px !important;
-  max-width: 100% !important;
-}
-.newsletter .qndTrigger input:focus { border-color: var(--accent) !important; }
-.newsletter .qndTrigger input:invalid:not(:placeholder-shown):not(:focus) {
-  border-color: var(--accent) !important;
-}
-.newsletter .qndTrigger .error,
-.newsletter .qndTrigger .qnd-error,
-.newsletter .qndTrigger [class*="error"] {
-  color: #e74c3c !important; font-size: 13px !important;
-  font-family: 'DM Sans', -apple-system, sans-serif !important;
-  margin-top: 4px !important; text-align: center !important;
-}
-.newsletter .qndTrigger form { min-height: 110px !important; }
-.newsletter .qndTrigger [title]:hover { cursor: pointer; }
-.newsletter .qndTrigger button,
-.newsletter .qndTrigger input[type="submit"] {
-  width: 100% !important; padding: 14px 28px !important; border-radius: 999px !important;
-  border: none !important; background: var(--accent) !important; color: #fff !important;
-  font-size: 15px !important; font-weight: 700 !important;
-  font-family: 'DM Sans', -apple-system, sans-serif !important;
-  cursor: pointer !important; transition: background .15s !important;
-  max-width: 100% !important;
-}
-.newsletter .qndTrigger button:hover,
-.newsletter .qndTrigger input[type="submit"]:hover { background: var(--accent-hover) !important; }
+/* Newsletter form */
 .newsletter-form { display: flex; gap: 10px; max-width: 420px; margin: 0 auto; }
 .newsletter-form input {
   flex: 1; padding: 12px 18px; font-size: 14px; font-family: inherit;
